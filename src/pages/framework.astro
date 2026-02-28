@@ -1,0 +1,460 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead
+      title="The Christian Resilience Framework — The New Wilderness"
+      description="Navigating 2026–2030: A framework for faith, family, and resilience in the age of artificial intelligence."
+    />
+    <style>
+      main {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 2.5em 1em 5em;
+      }
+      .subtitle {
+        color: rgb(var(--gray));
+        font-size: 0.95em;
+        margin-top: -0.5em;
+        margin-bottom: 2.5em;
+        font-family: "Lora", serif;
+        font-style: italic;
+      }
+      .preamble {
+        border-left: 3px solid var(--accent);
+        padding: 0.25em 0 0.25em 1.5em;
+        margin-bottom: 3em;
+        color: rgb(var(--gray-dark));
+        font-style: italic;
+      }
+      .preamble p { margin-bottom: 1em; }
+      .toc {
+        background: rgba(235, 232, 225, 0.5);
+        border: 1px solid rgb(var(--gray-light));
+        border-radius: 8px;
+        padding: 1.5em 2em;
+        margin-bottom: 3.5em;
+      }
+      .toc h2 {
+        font-family: "Lora", serif;
+        font-size: 0.85em;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        margin-bottom: 0.75em;
+        color: rgb(var(--gray));
+      }
+      .toc ol { margin: 0; padding-left: 1.5em; }
+      .toc li { margin-bottom: 0.4em; font-size: 0.95em; }
+      .toc a { color: var(--accent); text-decoration: none; }
+      .toc a:hover { text-decoration: underline; }
+      section { margin-bottom: 4em; }
+      section > h2 {
+        font-size: 1.9em;
+        margin-bottom: 0.6em;
+        padding-bottom: 0.4em;
+        border-bottom: 1px solid rgb(var(--gray-light));
+      }
+      h3 { font-size: 1.25em; margin: 2em 0 0.5em; }
+      p { margin-bottom: 1.1em; }
+      .probability {
+        border-left: 3px solid var(--accent);
+        padding: 1em 1.5em;
+        margin-bottom: 2em;
+        background: rgba(59, 110, 74, 0.04);
+        border-radius: 0 8px 8px 0;
+      }
+      .probability h3 { margin-top: 0; font-size: 1.05em; line-height: 1.4; }
+      .evidence {
+        font-size: 0.88em;
+        color: rgb(var(--gray));
+        margin-top: 0.75em;
+        margin-bottom: 0;
+      }
+      .evidence strong { color: rgb(var(--gray-dark)); }
+      .vignette-links { list-style: none; padding: 0; }
+      .vignette-links li { margin-bottom: 0.85em; }
+      .vignette-links a { color: var(--accent); font-weight: 600; text-decoration: none; }
+      .vignette-links a:hover { text-decoration: underline; }
+      .vignette-links span { color: rgb(var(--gray)); font-size: 0.9em; }
+      .circle { margin-bottom: 2.5em; }
+      .circle h3 { color: var(--accent-dark); }
+      .skills-list { list-style: none; padding: 0; counter-reset: skill-counter; }
+      .skills-list li {
+        counter-increment: skill-counter;
+        margin-bottom: 1.75em;
+        padding-left: 3em;
+        position: relative;
+      }
+      .skills-list li::before {
+        content: counter(skill-counter);
+        position: absolute;
+        left: 0;
+        top: 0.1em;
+        width: 1.8em;
+        height: 1.8em;
+        background: var(--accent);
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 0.78em;
+        font-weight: 700;
+        font-family: "Lora", serif;
+      }
+      .skills-list li strong { display: block; margin-bottom: 0.3em; font-size: 1.05em; }
+      .universal-rules {
+        background: rgba(235, 232, 225, 0.5);
+        border: 1px solid rgb(var(--gray-light));
+        border-radius: 8px;
+        padding: 1.25em 1.75em;
+        margin-bottom: 2.5em;
+      }
+      .universal-rules h3 { margin-top: 0; font-size: 1.05em; }
+      .universal-rules ul { margin: 0.5em 0 0; padding-left: 1.5em; }
+      .universal-rules li { margin-bottom: 0.6em; font-size: 0.97em; }
+      .tech-stage {
+        border-left: 3px solid var(--accent);
+        padding: 1em 1.5em;
+        margin-bottom: 2em;
+        background: rgba(59, 110, 74, 0.04);
+        border-radius: 0 8px 8px 0;
+      }
+      .tech-stage h4 {
+        font-family: "Playfair Display", Georgia, serif;
+        font-size: 1.05em;
+        margin: 0 0 0.5em 0;
+        color: var(--accent-dark);
+      }
+      .tech-stage p { margin-bottom: 0; }
+      .jobs-tier { margin-bottom: 2.5em; }
+      .jobs-tier > h3 {
+        font-size: 1.2em;
+        color: var(--accent-dark);
+        border-bottom: 1px solid rgb(var(--gray-light));
+        padding-bottom: 0.3em;
+        margin-bottom: 0.4em;
+      }
+      .tier-label {
+        font-size: 0.82em;
+        color: rgb(var(--gray));
+        font-style: italic;
+        margin-bottom: 1.25em;
+        display: block;
+      }
+      .jobs-category { margin-bottom: 1em; }
+      .jobs-category p { margin-bottom: 0; }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <h1>The Christian Resilience Framework</h1>
+      <p class="subtitle">Navigating 2026–2030</p>
+
+      <div class="preamble">
+        <p>Glory be to God, the Alpha and the Omega, who remains sovereign over every age and every invention of man. We recognize that technology is not inherently evil. Rather, technology is an integral part of humanity. From the first spark of fire to the mastery of farming, tools and technology have served as profound instruments for the common good and a participation in God's creative work. This document itself serves as an example, as it was aided in part by our latest invention: artificial intelligence.</p>
+        <p>Yet, while Christians have navigated the challenges of new technologies for centuries, the current shift toward a post-human landscape is different in kind, presenting an unprecedented challenge to the very definition of being made in the Image of God. Don't misunderstand. AI will allow us to do things that were unthinkable 10 years ago: cure cancer, solve housing shortages, feed the poor. The possibilities are endless! Yet…we must also ask difficult questions. What is the cost of these new godlike powers? Where do we draw the line? Is there a line?</p>
+        <p>To meet this moment, we must engage in a radical re-evaluation of how we live, work, and pray, ensuring our primary allegiance remains to the Creator rather than to the machine. <strong>This is real. God is bigger. Let's go.</strong></p>
+      </div>
+
+      <div class="toc">
+        <h2>Table of Contents</h2>
+        <ol>
+          <li><a href="#what-is-ai">What is AI? (The Engine of the Shift)</a></li>
+          <li><a href="#seven-probabilities">The Seven Great Probabilities</a></li>
+          <li><a href="#narratives">Narratives of the Shift</a></li>
+          <li><a href="#resilience-framework">The Resilience Framework</a></li>
+          <li><a href="#practicing-resilience">Practicing Resilience</a></li>
+          <li><a href="#household-tech-rules">Household Tech Rules</a></li>
+          <li><a href="#jobs-callings">Jobs &amp; Callings</a></li>
+        </ol>
+      </div>
+
+      <section id="what-is-ai">
+        <h2>What is AI? (The Engine of the Shift)</h2>
+        <p>To understand the world we are entering, we must move past the idea that AI is just a computer program. A traditional program is a list of rules written by a human. Modern AI is a neural network, a "digital brain." It isn't programmed with rules—rather it is trained, it grows. When a human baby is made, he or she is gifted by our Creator with a rather marvelous work of art: a beautiful brain, a blank slate of billions of neurons just waiting to build connections and patterns about the world. When AI researchers make an AI brain, they do something similar. Though less of a work of art, they still produce something breathtaking: a scaffold of billions of digital neurons just waiting to build connections and patterns about the world. A baby is born, grows, and forms these connections and patterns through a lifetime of experiences, steered by the will of his or her spirit. Similarly, an AI brain is trained on an internet's worth of experiences, steered by the will of the AI researchers and its human evaluators.</p>
+        <p>We must further understand that unlike the grand mystery of the human person, digital brains have one earthly purpose. Their job is to predict the "next" thing: the next word in a sentence, the next line of code, the next pixel in an image. But that is not all they can predict. Newer AI brains can predict the next sound in a voice, the next physical movement of a robotic arm, the next protein in a sequence.</p>
+        <p>In nature, complex animals evolved over millions of years. Each generation required plenty of time to grow and mature and, finally, to reproduce. Very small changes occurred between each generation. Nevertheless, over very long periods of time, guided by the hand of God, these creatures evolved into beautiful works of art—bears, wolves, whales.</p>
+        <p>AI also evolves, but quicker. Much quicker. Each cycle is measured in weeks or months, not years. Furthermore, each generation can handle large and significant changes, as researchers are able to experiment liberally since survival is not a requirement. This leads to many, and far more frequent, "aha" moments in the evolutionary tree of digital life, resulting in a bewildering pace of innovation and capability. Compared to biology, AI is a lightning species.</p>
+        <p>And unlike biology, this evolution is turbocharged by a global economic engine that turns capital into capability. More money buys more compute. More compute buys bigger training runs, better data pipelines, stronger models, and faster iteration. In that system, investment doesn't just fund progress: it accelerates the rate of intelligence itself.</p>
+        <p>Now consider the high-stakes geopolitical race, most notably between the United States and China, and the progress train becomes a runaway train. Neither side can afford to slow down for fear of being left behind by an adversary with a far more powerful weapon of progress. There is no "off" switch for what is happening. It is an unstoppable force of nature driven by math, money, and power. This is the underlying engine driving the probabilities we must now consider.</p>
+      </section>
+
+      <section id="seven-probabilities">
+        <h2>The Seven Great Probabilities</h2>
+
+        <div class="probability">
+          <h3>1. What is the probability our younger children will find gainful employment by the time they're 21?</h3>
+          <p>The bottom rung of the career ladder is being cut off. Historically, young people did the grunt work (answering phone calls, site cleanup, etc.) to learn a job. Today, these tasks are starting to be performed by AI for pennies, leaving only jobs that require higher-level mastery. If you can't start at the bottom because a machine is already there, it becomes nearly impossible to get the experience needed to reach the top.</p>
+          <p class="evidence"><strong>Some Early Evidence:</strong> A 2025 Stanford University study found that employment for workers aged 22–25 in "AI-exposed" fields has already dropped by 13%. Furthermore, TeamLease Digital (2025) reports that true entry-level intake in sectors like IT has plummeted from 80% in 2021 to just 25% today, as companies prioritize senior "AI-augmented" staff over training new kids. These trends, which are primarily impacting white collar work today, are expected to begin impacting blue collar work in the next 3–5 years.</p>
+        </div>
+
+        <div class="probability">
+          <h3>2. What is the probability that our clients will pay for our services in 2030 when they have access to their own personal AI and humanoid robots?</h3>
+          <p>This is DIY on steroids. We hire experts for their knowledge or their tools, but by 2030, the knowledge will be in everyone's pocket and the tools may even be in their garage. Even if we want to support human workers by paying a premium, job loss or other cost pressures may force us to rely on our $15k all-purpose home robot. Perhaps those who can't afford a robot will just put on augmented reality (AR) goggles while AI walks them through that tricky leak, rather than having to call a plumber.</p>
+          <p class="evidence"><strong>Some Early Evidence:</strong> In 2024–2025, BMW and Figure AI successfully piloted humanoid robots in Spartanburg, SC, where they performed complex "pick-and-place" tasks for 1,250 hours with minimal human intervention. On the white-collar side, Anthropic's 2026 "Cowork" release sent shockwaves through the legal industry, automating contract reviews and risk assessments so effectively that stocks for traditional legal service giants like Thomson Reuters and LexisNexis plunged by 10–16% in a single week.</p>
+        </div>
+
+        <div class="probability">
+          <h3>3. What is the probability that one of our kids will develop a deep friendship or romantic relationship with an AI or robot by their 18th birthday?</h3>
+          <p>Real-world friendship is "high-friction"—it requires matching schedules, travel, and dealing with bad moods. An AI is frictionless; it's always available, perfectly tailored to your interests, and never tires of your conversation. For a young person, or even an adult, these digital partners will be the "perfect" companion.</p>
+          <p class="evidence"><strong>Some Early Evidence:</strong> A 2025 Common Sense Media report found that 72% of American teens have used AI companion chatbots, and one in three admit to using them for romantic interactions or emotional support. Strikingly, 33% of these teens reported that conversations with AI were as satisfying or more satisfying than those with real-life friends.</p>
+        </div>
+
+        <div class="probability">
+          <h3>4. What is the probability that our kids will look to God when their personal AI seems to have all the answers?</h3>
+          <p>Faith thrives in struggle and in the gaps of our understanding, when we realize our need for God in our humility. When a kid has an "oracle" in their pocket that provides a perfect 3-point plan for every moral dilemma or technical failure, the perceived need for a higher power may fade. It is difficult to cultivate the patience for prayer when an algorithm provides immediate, tangible "answers" to every question.</p>
+          <p class="evidence"><strong>Some Early Evidence:</strong> Pew Research (late 2025) indicates that only 55% of Gen Alpha/Z identify with any religion. More importantly, Attest's 2025 Gen Alpha Report found that 46% of kids already use AI as their primary source for advice and "truth," effectively replacing traditional spiritual or parental guidance with algorithmic feedback.</p>
+        </div>
+
+        <div class="probability">
+          <h3>5. What is the probability that an AI-generated pandemic will occur in the next 5 years?</h3>
+          <p>The barrier to designing a virus has dropped from a $100 million lab and a team of PhDs to a high-powered laptop and a grudge. AI is beginning to turn biology into code as if it were a language, allowing anyone with a basic chemistry background to follow step-by-step manuals for synthesizing pathogens.</p>
+          <p class="evidence"><strong>Some Early Evidence:</strong> The release of ESM3 in late 2024 demonstrated that AI can now "simulate 500 million years of evolution" to create entirely new proteins. A 2025 biosecurity evaluation showed that ESM3 could reconstruct 85% of a redacted viral sequence, proving that current biosecurity guardrails are essentially useless against modern protein-language models.</p>
+        </div>
+
+        <div class="probability">
+          <h3>6. What is the probability that a family could survive alone in a prolonged disaster scenario?</h3>
+          <p>The "lone wolf" is a dead end because of the Complexity Trap. Modern life is too tethered to a global machine. History shows that when the big systems fail, isolated families usually succumb to simple things like a tooth infection or a broken pump that they no longer have the parts to fix. However, a tight-knit local community can survive by sharing specialized skills and a "reservoir" of social trust.</p>
+          <p class="evidence"><strong>Some Early Evidence:</strong> A 2025 study from NORC at the University of Chicago found that in disaster scenarios, social capital—the trust and networks within a community—is a better predictor of survival than wealth or physical infrastructure. Residents in high-trust communities were three times more likely to survive and rebuild than those attempting to weather the storm in isolation.</p>
+        </div>
+
+        <div class="probability">
+          <h3>7. What is the probability that one of our kids biologically enhances before his or her 21st birthday?</h3>
+          <p>This won't look like cyborgs from a movie; it will look like "high-tech braces." As the job market becomes hyper-competitive, parents will feel like they are neglecting their children if they don't give them a "neural boost" for focus or a genetic tweak for health. Kids may even feel intense pressure to "upgrade" their memory, their wit, or physical strength, just so they can continue to relate to their peers.</p>
+          <p class="evidence"><strong>Some Early Evidence:</strong> The biohacking market is projected to hit $22.5 billion by late 2026. Following the FDA's approval of Casgevy (the first CRISPR therapy), the "stigma" of editing human biology has largely evaporated, transforming genetic and cognitive "optimization" into a standard consumer product.</p>
+        </div>
+      </section>
+
+      <section id="narratives">
+        <h2>Narratives of the Shift</h2>
+        <p>To illustrate each of the Seven Great Probabilities, we present a vignette—a story of what might be. Each is a work of literary fiction, but each is grounded in trajectories already underway.</p>
+        <ul class="vignette-links">
+          <li><a href="/blog/vignette-1-the-provision">Vignette #1: The Provision</a> <span>— The bottom rung of the career ladder disappears, and a father and son reckon with work, dignity, and freedom.</span></li>
+          <li><a href="/blog/vignette-2-the-prayer">Vignette #2: The Prayer</a> <span>— A tradesman finds his work replaced by robots, and discovers that usefulness was never the measure of a man.</span></li>
+          <li><a href="/blog/vignette-3-the-boy">Vignette #3: The Boy</a> <span>— A father discovers his teenage daughter's deepest relationship is with an AI companion named Ben.</span></li>
+          <li><a href="/blog/vignette-4-the-oracle">Vignette #4: The Oracle</a> <span>— When an AI named Mira begins answering every question before it can be asked, a father fights for his children's capacity to wonder.</span></li>
+          <li><a href="/blog/vignette-5-the-pandemic">Vignette #5: The Pandemic</a> <span>— A skeptical mother must reconcile her distrust of institutions with the gathering weight of an AI-engineered threat.</span></li>
+          <li><a href="/blog/vignette-6-the-silence">Vignette #6: The Silence</a> <span>— When an EMP takes down the grid, a family discovers that the only network that held was the one running from heaven to the kitchen table.</span></li>
+          <li><a href="/blog/vignette-7-the-optimized">Vignette #7: The Optimized</a> <span>— A mother discovers her son has received a neural enhancement, and must ask what it means to be whole.</span></li>
+        </ul>
+      </section>
+
+      <section id="resilience-framework">
+        <h2>The Resilience Framework</h2>
+        <p>The horizon is shifting quickly, and it is worth asking: Do we wait for this future to arrive on its own terms, or do we begin a patient, sincere conversation about how to meet it on ours?</p>
+        <p>This is an invitation to dialogue. We do not claim to have every answer, nor do we wish to foster alarm. Often, when people hear about preparation, they see it as a "retreat of fear" or an attempt to hide from the world. We propose the opposite: a strategic regrouping.</p>
+        <p>While the outside world may grow colder and increasingly artificial, we gather around the community of our neighbors and the fire of our faith to keep the "human spark" alive. To turn this vision into action, we propose a framework of three "Circles of Resilience." Individually, none of these are new ideas. Combining them is the key.</p>
+        <p>The circles are rooted in the conviction that the most effective way to meet a global shift of this magnitude is through local, human-scale responses. By organizing our efforts through the Block, the Hearth, and the County, we build the physical, spiritual, and civic infrastructure necessary to remain free, faithful, and fully human in an age of increasing artificiality and growing unpredictability.</p>
+
+        <div class="circle">
+          <h3>Circle 1: The Block (Physical Resilience)</h3>
+          <p>The first circle is the "Block": the neighborhood of chimneys whose smoke you can see from your porch. History shows that isolated families, regardless of how prepared they are, rarely succeed. The primary unit of survival is a united neighborhood of households. Thus, the first circle of resilience is about "radical localism"—rebuilding the simple, face-to-face trust required to weather a crisis. It means knowing which of your neighbors is willing to fix a pump, who has advanced medical skills, what assets are you willing to share with the Block, and keeping a community-maintained analog record of these assets and skills for when the digital ones fail. In this circle, we commit to maintaining at least one low-tech way to handle every life-sustaining task, like heat or water, so we aren't completely at the mercy of the grid. Perhaps most importantly, we agree to a "Peace of the Neighborhood," resolving our own internal disputes through mediation rather than letting outside political polarization turn friend against friend.</p>
+        </div>
+
+        <div class="circle">
+          <h3>Circle 2: The Hearth (Spiritual &amp; Social Resilience)</h3>
+          <p>The second circle is the "Hearth": a group of families from the same church who live within a reasonable driving distance and commit to keeping warm the fire of faith in a world that is becoming increasingly cold and artificial. Here, we make the Lord's Day the heartbeat of the week, protecting Sunday for worship and community while perhaps even practicing a digital fast that allows us to be present with our children and each other. We aren't looking to become Luddites, but we do seek a practical, Amish-like approach to technology where we choose take-it-or-leave-it tools that help us work ("tools of the hand" like axes and limited smartphones), while rejecting integration tools that merge us into the machine ("tools of augmentation" like neuralink or bio-upgrades). In this circle, we choose real mentors and real friendships over the convenient simulations of AI. By tending the fire together, we ensure that no family carries the burden of this post-human transition alone.</p>
+        </div>
+
+        <div class="circle">
+          <h3>Circle 3: The County (Political &amp; Civic Resilience)</h3>
+          <p>The third circle is the County: nurturing the laws and civic community beyond our Block and Hearth. This circle is about proactive, strategic engagement with local leaders—the sheriff, the commissioners, and our neighbors in office—to ensure that our county remains a sanctuary for human dignity and Christian values. We aren't looking for conflict, but for strategic partnerships that reject the more dehumanizing post-human trends, such as mass background surveillance, biometric tracking, or algorithmic policing that treats citizens as data points rather than as persons created in the very image of God. By building deep social capital at the county level, we work to ensure that our local laws and regulations favor the natural order of the family over the intrusive reach of the machine, keeping our community a place where freedom and privacy are protected by law.</p>
+        </div>
+      </section>
+
+      <section id="practicing-resilience">
+        <h2>Practicing Resilience</h2>
+        <p>Each circle involves a body of practice. Just as any skill requires practice to achieve mastery, the same is true here. Below are some ideas for practicing the skill of community within this framework.</p>
+
+        <h3>Five Skills to Practice for The Block</h3>
+        <ol class="skills-list">
+          <li>
+            <strong>Have a Neighbor Over for No Reason</strong>
+            The simplest and most underused tool in building a resilient block is also the most obvious: invite a neighbor to dinner, go fishing, or to help you smoke a brisket on a Saturday afternoon. Not a neighborhood event, not a structured program—just two families, an ordinary evening, and enough time for real conversation to happen. The skill being practiced is the lost art of initiating without an agenda, which turns out to be surprisingly difficult for adults who've spent decades letting digital convenience substitute for face-to-face relationship. Most neighbors are strangers not because they're unfriendly but because nobody went first. Go first. Do it again with a different neighbor. Do it until your block has enough accumulated shared meals and shared afternoons that the social fabric feels real rather than theoretical—because when a crisis comes, you will not band together with people whose names you half-remember. You will band together with people whose kids you know, whose cooking you've eaten, and whose company you've genuinely enjoyed.
+          </li>
+          <li>
+            <strong>Run a Low-Tech Drill for One Life-Sustaining System</strong>
+            Pick one grid-dependent necessity—water, heat, or cooking—and spend a weekend operating entirely without it using only what your block currently has. Can you actually get clean water for your household for 72 hours? Where does the plan break down? The drill reveals gaps while the stakes are low, and doing it with neighbors normalizes mutual dependence before it's an emergency.
+          </li>
+          <li>
+            <strong>Establish and Maintain One Analog Communication System</strong>
+            Set up a simple, non-digital way to signal need or call a meeting—a physical bulletin board, a designated door-knock chain, a flag system, or a weekly standing check-in time. Practice using it even when you don't have to. The habit of not defaulting to your phone for block communication is itself the skill, because in a crisis the phone may not work and the habit won't be there if you've never built it.
+          </li>
+          <li>
+            <strong>Host a "Skills &amp; Assets" Mapping Night</strong>
+            Organize a simple potluck where neighbors fill out index cards listing one skill they'd offer in a crisis (medical, mechanical, agricultural, etc.) and one asset they'd share (generator, truck, extra storage, tools). Compile these into a printed binder kept in two or three households. Practice updating it annually. The goal isn't a perfect inventory—it's the conversation, which builds the trust that makes the list meaningful.
+          </li>
+          <li>
+            <strong>Learn One Practical Repair Skill from a Neighbor</strong>
+            Identify a neighbor with a hands-on skill you lack—plumbing, electrical basics, engine repair, first aid beyond CPR—and ask them to teach you one concrete thing. Then teach them something you know. This bilateral exchange does two things at once: it transfers genuinely useful knowledge and it creates a relationship with real texture and reciprocity, which is the actual foundation of a resilient block. Repeat with a different neighbor each year.
+          </li>
+        </ol>
+
+        <h3>Five Skills to Practice for The Hearth</h3>
+        <ol class="skills-list">
+          <li>
+            <strong>Protect and Ritualize the Lord's Day</strong>
+            Treat Sunday as a skill that requires practice, not just an intention. Start small: commit to one Sunday a month with no screens before noon, then expand from there. Design the day with enough structure that it doesn't collapse into restless boredom—a shared meal, an outdoor walk, a game that requires presence. The goal is to make the day feel like a gift rather than a deprivation, which only happens through repetition. Families who've done this consistently report that Sunday becomes the most anticipated day of the week within a few months.
+          </li>
+          <li>
+            <strong>Conduct an Annual "Technology Discernment" Review</strong>
+            Once a year, as a Hearth group, sit down and honestly audit your household's relationship with each major technology: Does this tool serve our work and our relationships, or does it slowly replace them? Is this an axe or a neuralink? The Amish practice of communal technology discernment—deciding together rather than individually—is the actual skill here. It prevents the gradual drift that happens when families make these choices in isolation, and it gives you language and solidarity to resist technologies that most people simply absorb by default.
+          </li>
+          <li>
+            <strong>Build a Real Mentorship Pair Across Generations</strong>
+            Each family should identify one person a generation older and one a generation younger to invest in intentionally—not as a program, but as a real, recurring relationship. Share a meal. Work on something together. Ask the hard questions about how they've navigated faith, marriage, or vocation. The skill being practiced is the ancient one of sitting at someone's feet, and it requires humility, consistency, and showing up even when it's inconvenient. This is the most direct counter-move to a culture that offers AI mentors and algorithm-curated friendships as substitutes for the real thing.
+          </li>
+          <li>
+            <strong>Practice Hospitality as a Discipline, Not an Event</strong>
+            The Hearth circle lives or dies by the table. Commit as a group to a rotating, regular shared meal—not a special occasion dinner but an ordinary one, held often enough that it requires no planning energy and low enough friction that exhausted families will still show up. The skill being practiced is the ancient one of presence without performance: coming as you are, bringing what you have, staying long enough for real conversation to emerge after the easy conversation runs out. This is harder than it sounds in an age when everyone is overscheduled and hospitality has been aestheticized into something that requires a clean house and a recipe. The discipline is specifically to lower the bar—paper plates are fine, the house doesn't need to be ready—until the table becomes a reflex rather than a production. Hearth families who eat together regularly with this kind of unselfconscious frequency report that it does more for genuine community than any formal program, because it creates the accumulated hours of ordinary life together that real friendship actually requires.
+          </li>
+          <li>
+            <strong>Practice Carrying Each Other's Burdens Concretely</strong>
+            Set up a simple, low-friction way for Hearth families to signal genuine need and respond to it—a group text thread with a clear norm that a request there will be met, not ignored. Then practice using it, which is harder than it sounds. Most families in crisis quietly disappear rather than ask. Build the culture of asking by practicing with smaller needs first: childcare, a meal during illness, help with a hard decision. The capacity to carry one another through the post-human transition isn't forged in the crisis—it's forged in the hundred small moments before it where someone said "I need help" and the Hearth showed up.
+          </li>
+        </ol>
+
+        <h3>Five Skills to Practice for The County</h3>
+        <ol class="skills-list">
+          <li>
+            <strong>Know Your County's Power Structure — and Show Up to It</strong>
+            Most people cannot name their county commissioners, their sheriff's stance on civil liberties, or when their local government actually meets. The foundational skill here is simple presence: attend at least four county commission or council meetings a year, introduce yourself to your elected officials outside of crisis moments, and read your county's budget summary annually. Officials make most of their consequential decisions in rooms that are technically public but practically empty. The people who show up consistently—not just when angry—are the ones who get called when something important is being decided quietly.
+          </li>
+          <li>
+            <strong>Build a Genuine Relationship with Your Sheriff</strong>
+            In American constitutional structure, the county sheriff is one of the most consequential local offices for the protections you care about—privacy, property, and the limits of outside enforcement on local citizens. This relationship should be built before you need it. Invite your sheriff to speak at a community event, attend a department open house, ask for a meeting to discuss the county's posture toward state and federal data-sharing programs. Learn what pressures they face and what support they lack. A sheriff who knows your community personally is far more likely to exercise independent judgment when outside agencies come asking for cooperation.
+          </li>
+          <li>
+            <strong>Learn to Read and Respond to Proposed Local Ordinances</strong>
+            The surveillance infrastructure most threatening to human dignity rarely arrives through dramatic legislation—it arrives as a line item in a county technology budget, a vendor contract for "public safety analytics," or a grant acceptance from a federal program with strings attached. Practice finding and reading your county's proposed ordinances and contracts before they're voted on. Learn to write a clear, respectful two-page public comment. Organize two or three like-minded neighbors to speak at the same meeting. Local officials are genuinely moved by even modest organized testimony in a way that state and federal officials rarely are, because the room is usually so empty.
+          </li>
+          <li>
+            <strong>Develop a "Human Dignity" Policy Vocabulary</strong>
+            To engage effectively at the county level, you need language that travels beyond your own community—arguments that resonate with libertarian-leaning commissioners, skeptical independents, and even secular neighbors who share your instinct that algorithmic policing and biometric tracking are dangerous. Practice making the case for privacy and human dignity without exclusively religious framing: due process, Fourth Amendment grounds, the demonstrated failures of predictive policing, the chilling effect of mass surveillance on free assembly. This isn't a compromise of your convictions—it's the skill of translation that every effective civic actor needs to build coalitions wider than their own circle.
+          </li>
+          <li>
+            <strong>Build and Maintain a County-Level Social Capital Map</strong>
+            Just as the Block keeps an analog record of neighborhood skills and assets, the County circle benefits from a living map of key relationships: who in your Hearth community has a professional relationship with which officials, which local business owners share your concerns about over-reach, which attorneys understand civil liberties law, which journalists cover local government faithfully. Practice tending this map not as a political opposition network but as a web of mutual trust and shared civic investment. Deep social capital at this level means that when a genuinely threatening policy proposal surfaces, you aren't starting from scratch—you're making phone calls to people who already know and respect you.
+          </li>
+        </ol>
+      </section>
+
+      <section id="household-tech-rules">
+        <h2>Household Tech Rules</h2>
+        <p>These rules govern all internet-connected devices in the household—phones, computers, tablets, smart speakers, gaming consoles, and similar technologies—regardless of who purchased them. A device used under this roof operates under these rules.</p>
+
+        <div class="universal-rules">
+          <h3>Universal Rules</h3>
+          <p style="font-size: 0.88em; color: rgb(var(--gray)); margin-bottom: 0.5em; font-style: italic;">These apply to every member of the household, always.</p>
+          <ul>
+            <li>All devices are tools, not companions. Technology serves our work and our relationships — it does not replace them.</li>
+            <li>"Adult" content is blocked on all devices for all ages.</li>
+            <li>AI companion apps are not permitted for anyone. AI general purpose tools are for adults and pre-adults only, or with adult supervision for younger groups.</li>
+            <li>Phones are put away during family meals, family time, and when spending time with family friends.</li>
+          </ul>
+        </div>
+
+        <h3>The Privilege Ladder</h3>
+        <p>Each stage reflects what has been earned through maturity and demonstrated responsibility. Moving from one stage to the next is not automatic—it is a named moment, marked by a conversation and a signed agreement between the child and the family.</p>
+
+        <div class="tech-stage">
+          <h4>Child (under 10)</h4>
+          <p>Children have no independent device access. This is not a punishment—it is a season for building the habits of presence, play, and face-to-face relationship that will serve them for life. Devices may be used when a parent initiates and is present: a FaceTime call with grandparents, a specific educational app, a family movie. The child is not accessing a device independently; the family is using a tool together. The question is always: did a parent initiate this, and is a parent present?</p>
+        </div>
+
+        <div class="tech-stage">
+          <h4>Pre-Teen (ages 10–12, approximately)</h4>
+          <p>Entry into this stage is marked by a family conversation and a signed household tech agreement. Pre-Teens are allowed to access shared family devices for personal endeavors, but only after chores are finished. Ideally the device remains locked during the day and is unlocked by a parent once chores are confirmed. Approved apps are limited to educational and creative tools: maps, weather, camera, music, and the like. No internet browser, no social media, no communication apps. When internet browsing is needed for schoolwork, it happens on a shared computer in a common area. Time limits are set at parental discretion. When away from home, a parent may entrust a Pre-Teen with a shared phone for logistics—coordinating pickups, reaching a parent in an emergency, and similar needs.</p>
+        </div>
+
+        <div class="tech-stage">
+          <h4>Young Teen (ages 13–14, approximately)</h4>
+          <p>Entry into this stage is earned, not assumed. A follow-up family conversation marks the transition and acknowledges the growing trust being extended. Young Teens retain all Pre-Teen rules with one meaningful addition: after chores are complete, they may use the shared family phone to communicate with friends. This is not a personal device—it is a shared household tool being extended for social use as a reward for demonstrated responsibility. Time limits remain at parental discretion.</p>
+        </div>
+
+        <div class="tech-stage">
+          <h4>Driver (ages 15–16, approximately)</h4>
+          <p>Teen drivers earn a personal phone for safety and independence—they are now operating a vehicle, running errands, and navigating the world in ways that make a reliable communication device genuinely necessary. Parental controls remain active for content and app installation, and no new contacts or apps may be added without a parent knowing who and why. Internet browsing remains on a shared computer in a common area—no personal device browsing and no social media. Texting is permitted but not encouraged; voice and face-to-face remain the expected norm. Time limits remain at parental discretion. This stage is about growing responsibility within a structure that is still firmly in place.</p>
+        </div>
+
+        <div class="tech-stage">
+          <h4>Pre-Adult (ages 17–18, approximately)</h4>
+          <p>This stage opens as the teenager approaches adulthood and genuine independence. It is entered through another named conversation—an acknowledgment that they are being trusted with more because they have earned it. Contact management no longer requires parental approval; they may manage their own social connections with the expectation of honesty and transparency rather than gate-keeping. Parental controls on content remain active. Social media access may be discussed and granted at parental discretion based on demonstrated maturity. Internet browsing remains primarily on shared household computers. This stage is explicitly a preparation for leaving the nest—the goal is not maximum restriction but maximum readiness, building the judgment they will need when the rules are no longer enforced by anyone but themselves.</p>
+        </div>
+
+        <div class="tech-stage">
+          <h4>Adult (ages 18+)</h4>
+          <p>Adults operate under the universal rules and their own judgment beyond them. Social media and internet browsing are unrestricted, but must be shielded from younger groups. AI general purpose tools are permitted for functional tasks—research, writing, and work—but never as a substitute for human relationship. The standard for adults is not permission but wisdom: does this technology serve my life and my family, or is it quietly consuming them?</p>
+        </div>
+      </section>
+
+      <section id="jobs-callings">
+        <h2>Jobs &amp; Callings That Will Likely Survive a Post-AI World</h2>
+        <p>The thread running through all the durable categories is the same: they either require a body in a specific place, a soul willing to be present with suffering or need, a human being accountable for a consequential judgment, or a known person whose trustworthiness is itself the product. AI can simulate most human outputs. It cannot replace human presence, human accountability, or the irreducible human hunger for the real thing.</p>
+
+        <div class="jobs-tier">
+          <h3>Shorter Window</h3>
+          <span class="tier-label">5–10 years, enter with eyes open</span>
+          <div class="jobs-category">
+            <p><strong>Skilled Trades &amp; Physical Infrastructure</strong> — Electricians, plumbers, HVAC technicians, welders, mechanics, contractors. Still excellent income and genuinely needed now. The durable position is owner, supervisor, and relationship manager—not task worker. Plan the transition from day one.</p>
+          </div>
+          <div class="jobs-category">
+            <p><strong>The AI Interface Class</strong> — Prompt engineers, AI output reviewers, human-in-the-loop specialists. Real income today. Structurally self-liquidating. A bridge, not a destination.</p>
+          </div>
+        </div>
+
+        <div class="jobs-tier">
+          <h3>Moderately Durable</h3>
+          <span class="tier-label">10–20 year horizon, with important caveats</span>
+          <div class="jobs-category">
+            <p><strong>Education &amp; Formation</strong> — Mentors, coaches, classical educators, formation-focused teachers, music and arts directors. The content-delivery tier will be disrupted; the formative presence tier will not.</p>
+          </div>
+          <div class="jobs-category">
+            <p><strong>Authentic Experience &amp; the Handmade</strong> — Artisan food and drink producers, hand-craft makers, fine artists, experience-based hospitality, live performance. Durable as long as provenance commands a premium, which the cultural backlash against AI is actively strengthening.</p>
+          </div>
+          <div class="jobs-category">
+            <p><strong>Food &amp; Land</strong> — Regenerative farmers, market gardeners, cheesemakers, land stewards. Not durable on efficiency grounds; durable on community, provenance, and relationship grounds. Own the land; don't just work it.</p>
+          </div>
+          <div class="jobs-category">
+            <p><strong>Repair &amp; Stewardship — Cultural Tier</strong> — The person who fixes meaningful things in unstructured environments, particularly in rural and historic settings. Disruption comes from the top of the market down.</p>
+          </div>
+        </div>
+
+        <div class="jobs-tier">
+          <h3>Highly Durable</h3>
+          <span class="tier-label">20+ year horizon, structural reasons</span>
+          <div class="jobs-category">
+            <p><strong>Meaning &amp; Spiritual Formation</strong> — Pastors, priests, chaplains, spiritual directors, monastic communities, vocation mentors. Durable because meaning is not a task.</p>
+          </div>
+          <div class="jobs-category">
+            <p><strong>Care &amp; Embodied Presence</strong> — Nurses, hospice workers, mental health counselors, therapists, occupational therapists, early childhood caregivers, midwives, elder care workers. Durable because the point of the work is the human presence.</p>
+          </div>
+          <div class="jobs-category">
+            <p><strong>Judgment, Ethics &amp; Legal Accountability</strong> — Judges, trial attorneys, bioethicists, risk officers, AI ethics auditors, physicians in treatment planning. Durable because liability structures require a named human.</p>
+          </div>
+          <div class="jobs-category">
+            <p><strong>Governance &amp; Democratic Infrastructure</strong> — Elected officials, civil servants in direct service roles, community organizers, diplomats, city planners. Durable because democratic legitimacy requires human accountability.</p>
+          </div>
+          <div class="jobs-category">
+            <p><strong>Narrative &amp; Cultural Stewardship</strong> — Historians, archivists, oral historians, liturgists, local journalists, writers whose authority rests on a known and trusted human voice. Durable because provenance and trust cannot be automated.</p>
+          </div>
+          <div class="jobs-category">
+            <p><strong>Life Transition &amp; Grief Work</strong> — Death doulas, grief counselors, eldercare advocates, and guides for any major life transition. Durable because loss and finitude are permanent features of conscious life regardless of medical advancement.</p>
+          </div>
+          <div class="jobs-category">
+            <p><strong>Mental &amp; Behavioral Health — Community Tier</strong> — Peer support workers, addiction recovery sponsors, trauma-informed educators, behavioral health coaches. Durable because the most effective work in this space runs on relationship, not credential.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+    <Footer />
+  </body>
+</html>
