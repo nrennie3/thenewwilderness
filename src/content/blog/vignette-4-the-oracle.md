@@ -1,6 +1,6 @@
 ---
 title: 'Vignette #4: The Oracle'
-description: 'When a family AI named Mira begins answering every question before it can be asked, a father fights for his children\'s capacity to wonder. A fictional story from the Christian Resilience Framework.'
+description: "When a family AI named Mira begins answering every question before it can be asked, a father fights for his children's capacity to wonder. A fictional story from the Christian Resilience Framework."
 pubDate: 'Feb 24 2026'
 ---
 
