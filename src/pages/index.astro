@@ -1,36 +1,246 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
+import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const vignettes = (await getCollection('blog')).sort(
+	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf(),
+);
+const latestVignette = vignettes[vignettes.length - 1];
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				max-width: 860px;
+				margin: 0 auto;
+				padding: 3rem 1rem 5rem;
+			}
+
+			/* Hero */
+			.hero {
+				text-align: center;
+				padding: 3rem 0 3.5rem;
+				border-bottom: 1px solid var(--rule);
+				margin-bottom: 4rem;
+			}
+			.hero-eyebrow {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.72rem;
+				font-weight: 600;
+				letter-spacing: 0.2em;
+				text-transform: uppercase;
+				color: var(--accent);
+				margin: 0 0 1.5rem 0;
+			}
+			.hero h1 {
+				font-size: clamp(2rem, 5vw, 3.2rem);
+				line-height: 1.15;
+				margin: 0 0 1.25rem 0;
+				color: rgb(var(--black));
+			}
+			.hero-lead {
+				font-family: "Lora", Georgia, serif;
+				font-size: 1.08rem;
+				line-height: 1.85;
+				color: rgb(var(--gray-dark));
+				max-width: 580px;
+				margin: 0 auto 2rem;
+			}
+
+			/* Section grid */
+			.doorways {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				gap: 1.5rem;
+				margin-bottom: 4rem;
+			}
+			.doorway {
+				display: block;
+				border: 1px solid var(--rule);
+				border-radius: 6px;
+				padding: 2rem 2rem 1.75rem;
+				text-decoration: none;
+				background: var(--cream);
+				transition: border-color 0.2s, box-shadow 0.2s, background 0.2s;
+			}
+			.doorway:hover {
+				border-color: var(--accent);
+				box-shadow: 0 4px 24px rgba(59, 110, 74, 0.09);
+				background: var(--cream-dark);
+			}
+			.doorway-label {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.68rem;
+				font-weight: 600;
+				letter-spacing: 0.16em;
+				text-transform: uppercase;
+				color: var(--accent);
+				margin: 0 0 0.75rem 0;
+			}
+			.doorway h2 {
+				font-family: "Playfair Display", Georgia, serif;
+				font-size: 1.55rem;
+				font-weight: 700;
+				color: rgb(var(--black));
+				margin: 0 0 0.75rem 0;
+				line-height: 1.25;
+				transition: color 0.15s;
+			}
+			.doorway:hover h2 {
+				color: var(--accent-dark);
+			}
+			.doorway p {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.9rem;
+				color: rgb(var(--gray));
+				line-height: 1.65;
+				margin: 0 0 1.25rem 0;
+			}
+			.doorway-cta {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.88rem;
+				color: var(--accent);
+				font-style: italic;
+			}
+
+			/* Latest vignette */
+			.latest-section {
+				border-top: 1px solid var(--rule);
+				padding-top: 3rem;
+			}
+			.section-heading {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.72rem;
+				font-weight: 600;
+				letter-spacing: 0.18em;
+				text-transform: uppercase;
+				color: rgb(var(--gray));
+				margin: 0 0 1.5rem 0;
+			}
+			.latest-card {
+				display: block;
+				background: var(--cream-dark);
+				border: 1px solid var(--rule);
+				border-radius: 6px;
+				padding: 2rem 2.5rem;
+				text-decoration: none;
+				transition: border-color 0.2s, box-shadow 0.2s;
+			}
+			.latest-card:hover {
+				border-color: var(--accent);
+				box-shadow: 0 4px 20px rgba(59, 110, 74, 0.08);
+			}
+			.latest-meta {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				margin-bottom: 0.9rem;
+			}
+			.latest-label {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.68rem;
+				font-weight: 600;
+				letter-spacing: 0.16em;
+				text-transform: uppercase;
+				color: var(--accent);
+			}
+			.latest-date {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.85rem;
+				color: rgb(var(--gray));
+			}
+			.latest-title {
+				font-family: "Playfair Display", Georgia, serif;
+				font-size: 1.9rem;
+				font-weight: 700;
+				color: rgb(var(--black));
+				margin: 0 0 0.9rem 0;
+				line-height: 1.2;
+				transition: color 0.15s;
+			}
+			.latest-card:hover .latest-title {
+				color: var(--accent-dark);
+			}
+			.latest-desc {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.97rem;
+				color: rgb(var(--gray-dark));
+				line-height: 1.7;
+				margin: 0 0 1.25rem 0;
+			}
+			.read-link {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.9rem;
+				color: var(--accent);
+				font-style: italic;
+			}
+
+			@media (max-width: 640px) {
+				.doorways {
+					grid-template-columns: 1fr;
+				}
+				.hero {
+					padding: 2rem 0 2.5rem;
+				}
+				.latest-card {
+					padding: 1.5rem;
+				}
+				.latest-title {
+					font-size: 1.55rem;
+				}
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>The New Wilderness</h1>
-			<p>
-				We are living through an unprecedented moment. Artificial intelligence is reshaping how we work,
-				learn, communicate, and raise our children — faster than any of us anticipated. For families of
-				faith, this is not just a technological shift. It is a spiritual one.
-			</p>
-			<p>
-				This is a place for honest conversation about navigating that wilderness — with clear eyes,
-				deep roots, and primary allegiance to the Creator rather than the machine.
-			</p>
-			<p>
-				Here you will find articles, reflections, practical frameworks, and the occasional difficult
-				question about what it means to raise a family, hold a faith, and remain fully human in the
-				age of AI.
-			</p>
-			<p>
-				<a href="/blog">Read the latest articles →</a>
-			</p>
+			<div class="hero">
+				<p class="hero-eyebrow">Navigating 2026–2030</p>
+				<h1>Faith &amp; Family<br />in the Age of AI</h1>
+				<p class="hero-lead">
+					Artificial intelligence is reshaping how we work, learn, love, and raise our children — faster than any of us anticipated. This is a place for honest conversation about navigating that wilderness with clear eyes, deep roots, and primary allegiance to the Creator rather than the machine.
+				</p>
+			</div>
+
+			<div class="doorways">
+				<a class="doorway" href="/framework">
+					<p class="doorway-label">The Framework</p>
+					<h2>The Christian Resilience Framework</h2>
+					<p>Seven hard questions, three circles of resilience, and practical guidance for families navigating the post-AI world with faith intact.</p>
+					<span class="doorway-cta">Explore the framework →</span>
+				</a>
+
+				<a class="doorway" href="/blog">
+					<p class="doorway-label">The Vignettes</p>
+					<h2>Narratives of the Shift</h2>
+					<p>Seven works of literary fiction—grounded in trajectories already underway—illustrating what the coming decade may actually feel like for ordinary families.</p>
+					<span class="doorway-cta">Read the stories →</span>
+				</a>
+			</div>
+
+			{latestVignette && (
+				<div class="latest-section">
+					<p class="section-heading">Latest</p>
+					<a class="latest-card" href={`/blog/${latestVignette.id}/`}>
+						<div class="latest-meta">
+							<span class="latest-label">New Vignette</span>
+							<span class="latest-date"><FormattedDate date={latestVignette.data.pubDate} /></span>
+						</div>
+						<h2 class="latest-title">{latestVignette.data.title}</h2>
+						{latestVignette.data.description && (
+							<p class="latest-desc">{latestVignette.data.description}</p>
+						)}
+						<span class="read-link">Read the story →</span>
+					</a>
+				</div>
+			)}
 		</main>
 		<Footer />
 	</body>

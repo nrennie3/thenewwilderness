@@ -1,55 +1,108 @@
 ---
-import { SITE_TITLE } from '../consts';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 ---
 
 <header>
-	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
-		<div class="internal-links">
+	<div class="masthead">
+		<div class="top-rule"></div>
+		<a href="/" class="site-title">{SITE_TITLE}</a>
+		<p class="tagline">{SITE_DESCRIPTION}</p>
+		<nav>
 			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/blog">Articles</HeaderLink>
+			<span class="sep" aria-hidden="true">·</span>
 			<HeaderLink href="/framework">Framework</HeaderLink>
-			<HeaderLink href="/about">About</HeaderLink>
-		</div>
-	</nav>
+			<span class="sep" aria-hidden="true">·</span>
+			<HeaderLink href="/blog">Vignettes</HeaderLink>
+		</nav>
+		<div class="bottom-rule"></div>
+	</div>
 </header>
+
 <style>
 	header {
+		background: var(--cream);
 		margin: 0;
-		padding: 0 1em;
-		background: #faf8f4;
-		box-shadow: 0 1px 0 rgba(var(--black), 8%);
+		padding: 0;
 	}
-	h2 {
-		margin: 0;
-		font-size: 1.1em;
+	.masthead {
+		max-width: 860px;
+		margin: 0 auto;
+		padding: 0 1rem;
+		text-align: center;
+	}
+	.top-rule {
+		height: 3px;
+		background: rgb(var(--gray-dark));
+		margin-bottom: 1.75rem;
+	}
+	.site-title {
+		display: block;
 		font-family: "Playfair Display", Georgia, serif;
-		letter-spacing: 0.01em;
-	}
-
-	h2 a,
-	h2 a.active {
-		text-decoration: none;
+		font-size: 2.4rem;
+		font-weight: 700;
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
 		color: rgb(var(--black));
+		text-decoration: none;
+		line-height: 1;
+		margin-bottom: 0.6rem;
+	}
+	.site-title:hover {
+		color: rgb(var(--black));
+	}
+	.tagline {
+		font-family: "Lora", Georgia, serif;
+		font-style: italic;
+		font-size: 0.88rem;
+		color: rgb(var(--gray));
+		margin: 0 0 1.25rem 0;
+		letter-spacing: 0.01em;
 	}
 	nav {
 		display: flex;
 		align-items: center;
-		justify-content: space-between;
+		justify-content: center;
+		gap: 0.2rem;
+		margin-bottom: 1.25rem;
 	}
 	nav a {
-		padding: 1.1em 0.6em;
-		color: rgb(var(--gray));
-		border-bottom: 2px solid transparent;
-		text-decoration: none;
 		font-family: "Lora", Georgia, serif;
-		font-size: 0.9em;
-		letter-spacing: 0.02em;
+		font-size: 0.78rem;
+		letter-spacing: 0.14em;
+		text-transform: uppercase;
+		color: rgb(var(--gray-dark));
+		text-decoration: none;
+		padding: 0.2rem 0.5rem;
+		transition: color 0.15s;
+	}
+	nav a:hover {
+		color: var(--accent);
 	}
 	nav a.active {
+		color: var(--accent);
 		text-decoration: none;
-		border-bottom-color: var(--accent);
-		color: rgb(var(--black));
+		font-weight: 600;
+	}
+	.sep {
+		color: rgb(var(--gray));
+		font-size: 0.75rem;
+		user-select: none;
+	}
+	.bottom-rule {
+		height: 1px;
+		background: var(--rule);
+	}
+	@media (max-width: 600px) {
+		.site-title {
+			font-size: 1.7rem;
+			letter-spacing: 0.07em;
+		}
+		.tagline {
+			display: none;
+		}
+		.top-rule {
+			margin-bottom: 1.25rem;
+		}
 	}
 </style>

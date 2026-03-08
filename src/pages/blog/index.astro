@@ -1,5 +1,4 @@
 ---
-import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
@@ -10,78 +9,197 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+const [featured, ...rest] = posts;
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={`Articles — ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
 		<style>
 			main {
-				width: 960px;
+				width: 860px;
+				padding-top: 2.5rem;
+				padding-bottom: 2rem;
 			}
-			ul {
+			.listing-header {
+				margin-bottom: 2rem;
+			}
+			.listing-title {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.72rem;
+				font-weight: 600;
+				letter-spacing: 0.18em;
+				text-transform: uppercase;
+				color: rgb(var(--gray));
+				margin: 0 0 0.75rem 0;
+			}
+			.listing-rule {
+				height: 2px;
+				background: rgb(var(--gray-dark));
+			}
+
+			/* Featured post */
+			.featured-post {
+				display: block;
+				background: var(--cream-dark);
+				border: 1px solid var(--rule);
+				border-radius: 4px;
+				padding: 2.5rem;
+				text-decoration: none;
+				margin-bottom: 2rem;
+				transition: border-color 0.2s, box-shadow 0.2s;
+			}
+			.featured-post:hover {
+				border-color: var(--accent);
+				box-shadow: 0 4px 20px rgba(59, 110, 74, 0.08);
+			}
+			.featured-meta {
 				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
-				list-style-type: none;
+				justify-content: space-between;
+				align-items: center;
+				margin-bottom: 1rem;
+			}
+			.featured-label {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.68rem;
+				font-weight: 600;
+				letter-spacing: 0.16em;
+				text-transform: uppercase;
+				color: var(--accent);
+			}
+			.featured-date {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.85rem;
+				color: rgb(var(--gray));
+			}
+			.featured-title {
+				font-family: "Playfair Display", Georgia, serif;
+				font-size: 2.1rem;
+				font-weight: 700;
+				color: rgb(var(--black));
+				margin: 0 0 1rem 0;
+				line-height: 1.2;
+				transition: color 0.15s;
+			}
+			.featured-post:hover .featured-title {
+				color: var(--accent-dark);
+			}
+			.featured-desc {
+				font-family: "Lora", Georgia, serif;
+				font-size: 1rem;
+				color: rgb(var(--gray-dark));
+				line-height: 1.7;
+				margin: 0 0 1.5rem 0;
+			}
+			.read-link {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.9rem;
+				color: var(--accent);
+				font-style: italic;
+			}
+
+			/* Divider between featured and list */
+			.posts-divider {
+				height: 1px;
+				background: var(--rule);
+				margin-bottom: 0;
+			}
+
+			/* Post list */
+			.post-list {
+				list-style: none;
 				margin: 0;
 				padding: 0;
 			}
-			ul li {
-				width: calc(50% - 1rem);
+			.post-item {
+				border-bottom: 1px solid var(--rule);
 			}
-			ul li * {
+			.post-item a {
+				display: flex;
+				align-items: flex-start;
+				gap: 1.5rem;
+				padding: 1.5rem 0.25rem;
 				text-decoration: none;
-				transition: 0.2s ease;
 			}
-			ul li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
+			.post-item a:hover .post-title {
+				color: var(--accent);
 			}
-			ul li:first-child img {
-				width: 100%;
+			.post-num {
+				font-family: "Playfair Display", Georgia, serif;
+				font-size: 1.5rem;
+				color: rgb(var(--gray-light));
+				min-width: 2.75rem;
+				line-height: 1.2;
+				padding-top: 0.05rem;
+				user-select: none;
+				flex-shrink: 0;
 			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
+			.post-body {
+				flex: 1;
+				min-width: 0;
 			}
-			ul li img {
-				margin-bottom: 0.5rem;
-				border-radius: 12px;
-			}
-			ul li a {
-				display: block;
-			}
-			.title {
-				margin: 0;
+			.post-title {
+				font-family: "Playfair Display", Georgia, serif;
+				font-size: 1.2rem;
+				font-weight: 700;
 				color: rgb(var(--black));
-				line-height: 1;
+				margin: 0 0 0.3rem 0;
+				line-height: 1.3;
+				transition: color 0.15s;
 			}
-			.date {
-				margin: 0;
+			.post-desc {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.88rem;
 				color: rgb(var(--gray));
+				margin: 0;
+				line-height: 1.55;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
 			}
-			ul li a:hover h4,
-			ul li a:hover .date {
-				color: rgb(var(--accent));
+			.post-right {
+				display: flex;
+				flex-direction: column;
+				align-items: flex-end;
+				gap: 0.4rem;
+				min-width: 6.5rem;
+				padding-top: 0.1rem;
+				flex-shrink: 0;
 			}
-			ul a:hover img {
-				box-shadow: var(--box-shadow);
+			.post-date {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.8rem;
+				color: rgb(var(--gray));
+				white-space: nowrap;
 			}
-			@media (max-width: 720px) {
-				ul {
-					gap: 0.5em;
+			.post-arrow {
+				color: var(--accent);
+				font-size: 1rem;
+				opacity: 0;
+				transition: opacity 0.15s;
+			}
+			.post-item a:hover .post-arrow {
+				opacity: 1;
+			}
+
+			@media (max-width: 640px) {
+				.featured-post {
+					padding: 1.5rem;
 				}
-				ul li {
-					width: 100%;
-					text-align: center;
+				.featured-title {
+					font-size: 1.65rem;
 				}
-				ul li:first-child {
-					margin-bottom: 0;
+				.post-num {
+					display: none;
 				}
-				ul li:first-child .title {
-					font-size: 1.563em;
+				.post-right {
+					min-width: auto;
+				}
+				.post-arrow {
+					opacity: 1;
 				}
 			}
 		</style>
@@ -89,25 +207,46 @@ const posts = (await getCollection('blog')).sort(
 	<body>
 		<Header />
 		<main>
-			<section>
-				<ul>
-					{
-						posts.map((post) => (
-							<li>
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage && (
-										<Image width={720} height={360} src={post.data.heroImage} alt="" />
-									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
-			</section>
+			<div class="listing-header">
+				<p class="listing-title">Articles</p>
+				<div class="listing-rule"></div>
+			</div>
+
+			{featured && (
+				<a class="featured-post" href={`/blog/${featured.id}/`}>
+					<div class="featured-meta">
+						<span class="featured-label">Latest</span>
+						<span class="featured-date"><FormattedDate date={featured.data.pubDate} /></span>
+					</div>
+					<h2 class="featured-title">{featured.data.title}</h2>
+					{featured.data.description && (
+						<p class="featured-desc">{featured.data.description}</p>
+					)}
+					<span class="read-link">Read essay →</span>
+				</a>
+			)}
+
+			<div class="posts-divider"></div>
+
+			<ol class="post-list">
+				{rest.map((post, i) => (
+					<li class="post-item">
+						<a href={`/blog/${post.id}/`}>
+							<div class="post-num">{String(i + 2).padStart(2, '0')}</div>
+							<div class="post-body">
+								<h3 class="post-title">{post.data.title}</h3>
+								{post.data.description && (
+									<p class="post-desc">{post.data.description}</p>
+								)}
+							</div>
+							<div class="post-right">
+								<span class="post-date"><FormattedDate date={post.data.pubDate} /></span>
+								<span class="post-arrow">→</span>
+							</div>
+						</a>
+					</li>
+				))}
+			</ol>
 		</main>
 		<Footer />
 	</body>

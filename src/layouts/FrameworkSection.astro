@@ -1,0 +1,218 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+
+interface Props {
+	title: string;
+	description?: string;
+	order: number;
+	prev?: { slug: string; title: string };
+	next?: { slug: string; title: string };
+}
+
+const { title, description, prev, next } = Astro.props;
+---
+
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`${title} — The Christian Resilience Framework`}
+			description={description ?? 'Part of The Christian Resilience Framework at The New Wilderness.'}
+		/>
+		<style>
+			main {
+				width: calc(100% - 2em);
+				max-width: 100%;
+				margin: 0;
+				padding: 0;
+			}
+			.section-header {
+				max-width: 700px;
+				margin: 0 auto;
+				padding: 3rem 1rem 2rem;
+			}
+			.breadcrumb {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.72rem;
+				font-weight: 600;
+				letter-spacing: 0.16em;
+				text-transform: uppercase;
+				color: var(--accent);
+				text-decoration: none;
+				display: inline-block;
+				margin-bottom: 1.75rem;
+				transition: color 0.15s;
+			}
+			.breadcrumb:hover {
+				color: var(--accent-dark);
+			}
+			.header-rule {
+				height: 1px;
+				background: var(--rule);
+				margin: 1.5rem 0;
+			}
+			.section-header h1 {
+				font-family: "Playfair Display", Georgia, serif;
+				font-size: 2.4rem;
+				line-height: 1.2;
+				margin: 0;
+				color: rgb(var(--black));
+			}
+			.prose {
+				width: 700px;
+				max-width: calc(100% - 2em);
+				margin: 0 auto;
+				padding: 0 1em 3em;
+				color: rgb(var(--gray-dark));
+				font-size: 1.03rem;
+				line-height: 1.9;
+			}
+			.prose :global(p) {
+				margin-bottom: 1.6em;
+			}
+			.prose :global(h2) {
+				font-family: "Playfair Display", Georgia, serif;
+				font-size: 1.65rem;
+				margin-top: 3rem;
+				margin-bottom: 0.6rem;
+				padding-bottom: 0.4rem;
+				border-bottom: 1px solid rgb(var(--gray-light));
+				color: rgb(var(--black));
+			}
+			.prose :global(h3) {
+				font-family: "Playfair Display", Georgia, serif;
+				font-size: 1.2rem;
+				margin-top: 2.25rem;
+				margin-bottom: 0.5rem;
+				color: rgb(var(--black));
+			}
+			.prose :global(h4) {
+				font-size: 1rem;
+				margin-top: 1.75rem;
+				margin-bottom: 0.4rem;
+			}
+			.prose :global(ul),
+			.prose :global(ol) {
+				padding-left: 1.5em;
+				margin-bottom: 1.5em;
+			}
+			.prose :global(li) {
+				margin-bottom: 0.6em;
+			}
+			.prose :global(blockquote) {
+				border-left: 3px solid var(--accent);
+				padding: 0.75em 0 0.75em 1.5rem;
+				margin: 2rem 0;
+				font-style: italic;
+				font-size: 0.97em;
+				color: rgb(var(--gray));
+				background: rgba(var(--gray-light), 0.25);
+				border-radius: 0 6px 6px 0;
+			}
+			.prose :global(blockquote strong) {
+				font-style: normal;
+				color: rgb(var(--gray-dark));
+			}
+			.prose :global(hr) {
+				border: none;
+				border-top: 1px solid var(--rule);
+				margin: 2.5rem 0;
+			}
+			.prose :global(strong) {
+				color: rgb(var(--black));
+			}
+			.section-nav {
+				width: 700px;
+				max-width: calc(100% - 2em);
+				margin: 0 auto;
+				padding: 2rem 1em 4rem;
+				display: flex;
+				justify-content: space-between;
+				gap: 1.5rem;
+				border-top: 1px solid var(--rule);
+			}
+			.nav-link {
+				text-decoration: none;
+				max-width: 45%;
+			}
+			.nav-label {
+				font-family: "Lora", Georgia, serif;
+				font-size: 0.68rem;
+				letter-spacing: 0.14em;
+				text-transform: uppercase;
+				color: rgb(var(--gray));
+				display: block;
+				margin-bottom: 0.35rem;
+			}
+			.nav-title {
+				font-family: "Playfair Display", Georgia, serif;
+				font-size: 0.95rem;
+				color: rgb(var(--black));
+				transition: color 0.15s;
+				display: block;
+				line-height: 1.35;
+			}
+			.nav-link:hover .nav-title {
+				color: var(--accent);
+			}
+			.nav-next {
+				text-align: right;
+				margin-left: auto;
+			}
+			@media (max-width: 720px) {
+				.section-header {
+					padding: 2rem 1rem 1.5rem;
+				}
+				.section-header h1 {
+					font-size: 1.85rem;
+				}
+				.section-nav {
+					flex-direction: column;
+					gap: 1.5rem;
+				}
+				.nav-next {
+					text-align: left;
+					margin-left: 0;
+				}
+				.nav-link {
+					max-width: 100%;
+				}
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<div class="section-header">
+				<a class="breadcrumb" href="/framework">← The Christian Resilience Framework</a>
+				<div class="header-rule"></div>
+				<h1>{title}</h1>
+				<div class="header-rule"></div>
+			</div>
+
+			<div class="prose">
+				<slot />
+			</div>
+
+			{(prev || next) && (
+				<nav class="section-nav" aria-label="Section navigation">
+					{prev && (
+						<a class="nav-link" href={`/framework/${prev.slug}/`}>
+							<span class="nav-label">← Previous</span>
+							<span class="nav-title">{prev.title}</span>
+						</a>
+					)}
+					{next && (
+						<a class="nav-link nav-next" href={`/framework/${next.slug}/`}>
+							<span class="nav-label">Next →</span>
+							<span class="nav-title">{next.title}</span>
+						</a>
+					)}
+				</nav>
+			)}
+		</main>
+		<Footer />
+	</body>
+</html>
