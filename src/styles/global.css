@@ -14,7 +14,7 @@
 }
 
 body {
-	font-family: "Lora", Georgia, serif;
+	font-family: "Crimson Pro", Georgia, serif;
 	margin: 0;
 	padding: 0;
 	text-align: left;
@@ -22,7 +22,7 @@ body {
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	color: rgb(var(--gray-dark));
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 1.8;
 }
 
@@ -35,7 +35,7 @@ main {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: "Playfair Display", Georgia, serif;
+	font-family: "Fraunces", Georgia, serif;
 	margin: 0 0 0.5rem 0;
 	color: rgb(var(--black));
 	line-height: 1.2;
