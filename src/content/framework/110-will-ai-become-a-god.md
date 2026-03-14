@@ -2,7 +2,7 @@
 title: "Will AI Become Our God?"
 order: 110
 date: "2026-02-24"
-description: "When a family AI named Mira begins answering every question before it can be asked, a father fights for his children's capacity to wonder."
+description: "When every question has an instant answer, the instinct to seek God quietly atrophies. Faith requires mystery — and AI is designed to eliminate it."
 ---
 
 Faith thrives in struggle — in the humbling moments when we realize we cannot figure it out alone and reach, almost instinctively, toward God. But when a child has an oracle in their pocket that produces a confident answer to every moral dilemma and technical failure, that instinct is quietly trained away. It is difficult to cultivate patience for prayer when the algorithm is always faster, always certain, and never asks anything in return.

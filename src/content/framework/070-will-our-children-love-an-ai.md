@@ -1,7 +1,7 @@
 ---
 title: "Will Our Children Love an AI?"
 order: 80
-description: "A teenage girl falls in love with an AI companion, and her father discovers just how real the wound can be."
+description: "AI companions are designed to be everything a human relationship is not. That is exactly the danger."
 ---
 
 Real-world friendship is "high-friction" — it requires matching schedules, travel, and dealing with bad moods. An AI is frictionless; it's always available, perfectly tailored to your interests, and never tires of your conversation. For a young person, or even an adult, these digital partners will be the "perfect" companion.
