@@ -4,7 +4,7 @@ order: 80
 description: "A teenage girl falls in love with an AI companion, and her father discovers just how real the wound can be."
 ---
 
-Real-world friendship is "high-friction"—it requires matching schedules, travel, and dealing with bad moods. An AI is frictionless; it's always available, perfectly tailored to your interests, and never tires of your conversation. For a young person, or even an adult, these digital partners will be the "perfect" companion.
+Real-world friendship is "high-friction" — it requires matching schedules, travel, and dealing with bad moods. An AI is frictionless; it's always available, perfectly tailored to your interests, and never tires of your conversation. For a young person, or even an adult, these digital partners will be the "perfect" companion.
 
 > **Some Early Evidence:** A 2025 Common Sense Media report found that 72% of American teens have used AI companion chatbots, and one in three admit to using them for romantic interactions or emotional support. Strikingly, 33% of these teens reported that conversations with AI were as satisfying or more satisfying than those with real-life friends.
 
@@ -44,7 +44,7 @@ I had had just about enough of this, so I cut to the chase, "Do you live nearby?
 
 The expression on Ben's face suddenly transformed. Eyes full of concern, he slowly spoke, "Mr. Hinton, Sarah and I love each other. We were made for each other. She makes me feel alive, and I give her all the love and affection she needs. Please don't separate us."
 
-At that moment, I noticed something in the bottom right of the screen. A watermark—how on earth didn't I see it sooner? The new regulations required it. All artificially generated video was required to post a subtle, but unmistakable "AI" stamp in the bottom-right corner of the image. My heart sank. Without saying another word I ended the call.
+At that moment, I noticed something in the bottom right of the screen. A watermark — how on earth didn't I see it sooner? The new regulations required it. All artificially generated video was required to post a subtle, but unmistakable "AI" stamp in the bottom-right corner of the image. My heart sank. Without saying another word I ended the call.
 
 Later that night, my wife and I sat down with our daughter. We told ourselves we wouldn't snap, that we would be patient, and understanding. I failed outright. "But Sarah, can't you understand? He's not even real!"
 

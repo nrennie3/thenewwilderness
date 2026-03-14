@@ -1,35 +1,55 @@
 ---
+interface Props {
+	lastUpdated?: string;
+}
+const { lastUpdated } = Astro.props;
 const today = new Date();
 ---
 
 <footer>
 	<div class="footer-inner">
 		<div class="footer-rule"></div>
-		<p class="footer-copy">&copy; {today.getFullYear()} The New Wilderness. All rights reserved.</p>
+		<div class="footer-bottom">
+			<p class="footer-copy">&copy; {today.getFullYear()} The New Wilderness. All rights reserved.</p>
+			{lastUpdated && <p class="footer-updated">Last updated: {lastUpdated}</p>}
+		</div>
 	</div>
 </footer>
 
 <style>
 	footer {
 		background: var(--cream);
-		margin-top: 4rem;
+		margin-top: 1.5rem;
 		padding: 0;
 	}
 	.footer-inner {
 		max-width: 860px;
 		margin: 0 auto;
-		padding: 0 1rem 2.5rem;
+		padding: 0 1rem 1.5rem;
 	}
 	.footer-rule {
 		height: 1px;
 		background: var(--rule);
 		margin-bottom: 1.5rem;
 	}
+	.footer-bottom {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 1rem;
+		flex-wrap: wrap;
+	}
 	.footer-copy {
-		text-align: center;
 		font-family: "Inter", Georgia, serif;
 		font-size: 0.8rem;
 		color: rgb(var(--gray));
 		margin: 0;
+	}
+	.footer-updated {
+		font-family: "Inter", sans-serif;
+		font-size: 0.75rem;
+		color: rgb(var(--gray));
+		margin: 0;
+		letter-spacing: 0.04em;
 	}
 </style>

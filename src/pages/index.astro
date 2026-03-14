@@ -1,8 +1,15 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const lastUpdated = (await getCollection('framework'))
+	.map(a => a.data.date)
+	.filter(Boolean)
+	.sort()
+	.at(-1);
 ---
 
 <!doctype html>
@@ -85,6 +92,6 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 				<a class="cta-link" href="/articles">Read the Articles →</a>
 			</div>
 		</main>
-		<Footer />
+		<Footer lastUpdated={lastUpdated} />
 	</body>
 </html>

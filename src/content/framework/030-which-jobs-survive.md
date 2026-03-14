@@ -14,7 +14,7 @@ One honest challenge to this framework: every previous technology wave created j
 ## Shorter Window
 *5–10 years, enter with eyes open*
 
-**Skilled Trades & Physical Infrastructure** — Electricians, plumbers, HVAC technicians, welders, mechanics, contractors. Still excellent income and genuinely needed now. The durable position is owner, supervisor, and relationship manager—not task worker. Plan the transition from day one.
+**Skilled Trades & Physical Infrastructure** — Electricians, plumbers, HVAC technicians, welders, mechanics, contractors. Still excellent income and genuinely needed now. The durable position is owner, supervisor, and relationship manager — not task worker. Plan the transition from day one.
 
 **The AI Interface Class** — Prompt engineers, AI output reviewers, human-in-the-loop specialists, AI ethics auditors. Real income today. Structurally self-liquidating. A bridge, not a destination.
 
