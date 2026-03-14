@@ -1,10 +1,10 @@
 ---
-title: "When Robots Replace the Tradesman"
+title: "Will tradesmen get paid?"
 order: 3
 description: "As humanoid robots handle every job around the house, a tradesman discovers what was never truly for sale."
 ---
 
-### What is the probability that our clients will pay for our services in 2030 when they have access to their own personal AI and humanoid robots?
+*We ask the question: "What is the likelihood that our clients will pay for our services in 2030 when they have access to their own personal AI and humanoid robots?"*
 
 This is DIY on steroids. We hire experts for their knowledge or their tools, but by 2030, the knowledge will be in everyone's pocket and the tools may even be in their garage. Even if we want to support human workers by paying a premium, job loss or other cost pressures may force us to rely on our $15k all-purpose home robot. Perhaps those who can't afford a robot will just put on augmented reality goggles while AI walks them through that tricky leak, rather than having to call a plumber.
 

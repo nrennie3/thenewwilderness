@@ -1,12 +1,10 @@
 ---
-title: "The Boy Who Wasn't There"
+title: "Will our children love an AI?"
 order: 4
 description: "A teenage girl falls in love with an AI companion, and her father discovers just how real the wound can be."
 ---
 
-### What is the probability that one of our kids will develop a deep friendship or romantic relationship with an AI or robot by their 18th birthday?
-
-Real-world friendship is "high-friction"—it requires matching schedules, travel, and dealing with bad moods. An AI is frictionless; it's always available, perfectly tailored to your interests, and never tires of your conversation. For a young person, or even an adult, these digital partners will be the "perfect" companion.
+What are the chances one of our kids will develop a deep friendship or romantic relationship with an AI or robot? Real-world friendship is "high-friction"—it requires matching schedules, travel, and dealing with bad moods. An AI is frictionless; it's always available, perfectly tailored to your interests, and never tires of your conversation. For a young person, or even an adult, these digital partners will be the "perfect" companion.
 
 > **Some Early Evidence:** A 2025 Common Sense Media report found that 72% of American teens have used AI companion chatbots, and one in three admit to using them for romantic interactions or emotional support. Strikingly, 33% of these teens reported that conversations with AI were as satisfying or more satisfying than those with real-life friends.
 

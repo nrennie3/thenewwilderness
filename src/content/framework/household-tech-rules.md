@@ -1,10 +1,10 @@
 ---
-title: "Household Tech Rules"
+title: "What types of family tech rules should we consider?"
 order: 11
-description: "A tiered framework governing all internet-connected devices in the household—from young children through adulthood—rooted in earned trust and human flourishing."
+description: "Ideas and strategies for mitigating the dangers and traps of devices and AI."
 ---
 
-These rules govern all internet-connected devices in the household—phones, computers, tablets, smart speakers, gaming consoles, and similar technologies—regardless of who purchased them. A device used under this roof operates under these rules.
+The below rules are merely suggestions. Just as we protect ourselves and our children from physical danger, we must defend against the mental, emotional, and spiritual dangers presented through devices. Each family and community must determine the set of rules that makes sense for them. The only rule: have some rules!
 
 ---
 

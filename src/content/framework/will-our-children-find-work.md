@@ -4,7 +4,7 @@ order: 2
 description: "When the bottom rung of the career ladder vanishes overnight, a family must choose between dependence and defiance."
 ---
 
-### What is the probability our younger children will find gainful employment by the time they're 21?
+*We ask the question: "What is the likelihood that our younger children find gainful employment by the time they're 21?"*
 
 The bottom rung of the career ladder is being cut off. Historically, young people did the grunt work—answering phone calls, site cleanup, and similar tasks—to learn a job. Today, these tasks are starting to be performed by AI for pennies, leaving only jobs that require higher-level mastery. If you can't start at the bottom because a machine is already there, it becomes nearly impossible to get the experience needed to reach the top.
 

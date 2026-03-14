@@ -1,10 +1,10 @@
 ---
-title: "The Pathogen in the Code"
+title: "Will AI induce a pandemic?"
 order: 6
 description: "The barrier to designing a virus has dropped from a $100 million lab to a high-powered laptop and a grudge."
 ---
 
-### What is the probability that an AI-generated pandemic will occur in the next 5 years?
+We ask the question "What is the probability that an AI-generated pandemic will occur in the next 5 years?"
 
 The barrier to designing a virus has dropped from a $100 million lab and a team of PhDs to a high-powered laptop and a grudge. AI is beginning to turn biology into code as if it were a language, allowing anyone with a basic chemistry background to follow step-by-step manuals for synthesizing pathogens.
 

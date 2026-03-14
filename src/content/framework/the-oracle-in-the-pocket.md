@@ -1,12 +1,10 @@
 ---
-title: "The Oracle in the Pocket"
+title: "Will AI become our god?"
 order: 5
 description: "When a family AI named Mira begins answering every question before it can be asked, a father fights for his children's capacity to wonder."
 ---
 
-### What is the probability that our kids will look to God when their personal AI seems to have all the answers?
-
-Faith thrives in struggle and in the gaps of our understanding, when we realize our need for God in our humility. When a kid has an "oracle" in their pocket that provides a perfect 3-point plan for every moral dilemma or technical failure, the perceived need for a higher power may fade. It is difficult to cultivate the patience for prayer when an algorithm provides immediate, tangible "answers" to every question.
+What are the chances our kids will look to God when their personal AI seems to have all the answers? Faith thrives in struggle and in the gaps of our understanding, when we realize our need for God in our humility. When a kid has an "oracle" in their pocket that provides a perfect 3-point plan for every moral dilemma or technical failure, the perceived need for a higher power may fade. It is difficult to cultivate the patience for prayer when an algorithm provides immediate, tangible "answers" to every question.
 
 > **Some Early Evidence:** Pew Research (late 2025) indicates that only 55% of Gen Alpha/Z identify with any religion. More importantly, Attest's 2025 Gen Alpha Report found that 46% of kids already use AI as their primary source for advice and "truth," effectively replacing traditional spiritual or parental guidance with algorithmic feedback.
 

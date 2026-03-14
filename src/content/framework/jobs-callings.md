@@ -1,7 +1,7 @@
 ---
-title: "Jobs & Callings That Will Likely Survive a Post-AI World"
+title: "What jobs will survive into a post-AI world?"
 order: 12
-description: "A clear-eyed guide to durable vocations in the age of artificial intelligence—organized by time horizon, with the reasoning behind each."
+description: "Suggestions by time horizon, with the reasoning behind each."
 ---
 
 The thread running through all the durable categories is the same: they either require a body in a specific place, a soul willing to be present with suffering or need, a human being accountable for a consequential judgment, or a known person whose trustworthiness is itself the product. AI can simulate most human outputs. It cannot replace human presence, human accountability, or the irreducible human hunger for the real thing.
