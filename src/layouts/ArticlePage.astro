@@ -28,9 +28,9 @@ const { title, description, prev, next } = Astro.props;
 				padding: 0;
 			}
 			.article-header {
-				max-width: 700px;
+				max-width: 860px;
 				margin: 0 auto;
-				padding: 1.75rem 1rem 0;
+				padding: 1.75rem 1.25rem 0;
 			}
 			.header-rule {
 				height: 1px;
@@ -45,14 +45,12 @@ const { title, description, prev, next } = Astro.props;
 				color: rgb(var(--black));
 			}
 			.prose {
-				width: 700px;
-				max-width: calc(100% - 2em);
+				max-width: 860px;
 				margin: 0 auto;
-				padding: 0 1em 3em;
+				padding: 0 1.25rem 3rem;
 				color: rgb(var(--gray-dark));
 				font-size: 1.03rem;
 				line-height: 1.9;
-				text-align: justify;
 			}
 			.prose :global(p) {
 				margin-bottom: 1.6em;
@@ -112,10 +110,9 @@ const { title, description, prev, next } = Astro.props;
 				font-style: italic;
 			}
 			.article-nav {
-				width: 700px;
-				max-width: calc(100% - 2em);
+				max-width: 860px;
 				margin: 0 auto;
-				padding: 2rem 1em 4rem;
+				padding: 2rem 1.25rem 4rem;
 				display: flex;
 				justify-content: space-between;
 				gap: 1.5rem;
@@ -151,7 +148,7 @@ const { title, description, prev, next } = Astro.props;
 			}
 			@media (max-width: 720px) {
 				.article-header {
-					padding: 1.25rem 1rem 0;
+					padding: 1.25rem 1.25rem 0;
 				}
 				.article-nav {
 					flex-direction: column;
