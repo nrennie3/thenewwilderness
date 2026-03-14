@@ -30,6 +30,6 @@ const { article, prev, next } = Astro.props;
 const { Content } = await render(article);
 ---
 
-<ArticlePage {...article.data} prev={prev} next={next}>
+<ArticlePage {...article.data} slug={article.id} prev={prev} next={next}>
 	<Content />
 </ArticlePage>

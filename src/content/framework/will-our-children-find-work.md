@@ -4,14 +4,11 @@ order: 2
 description: "When the bottom rung of the career ladder vanishes overnight, a family must choose between dependence and defiance."
 ---
 
-*We ask the question: "What is the likelihood that our younger children find gainful employment by the time they're 21?"*
-
 The bottom rung of the career ladder is being cut off. Historically, young people did the grunt work—answering phone calls, site cleanup, and similar tasks—to learn a job. Today, these tasks are starting to be performed by AI for pennies, leaving only jobs that require higher-level mastery. If you can't start at the bottom because a machine is already there, it becomes nearly impossible to get the experience needed to reach the top.
 
 > **Some Early Evidence:** A 2025 Stanford University study found that employment for workers aged 22–25 in "AI-exposed" fields has already dropped by 13%. Furthermore, TeamLease Digital (2025) reports that true entry-level intake in sectors like IT has plummeted from 80% in 2021 to just 25% today, as companies prioritize senior "AI-augmented" staff over training new workers. These trends, which are primarily impacting white collar work today, are expected to begin impacting blue collar work in the next 3–5 years.
 
 ---
-
 ## The Provision
 
 *A work of literary fiction.*
