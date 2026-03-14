@@ -8,11 +8,9 @@ interface Props {
 	description?: string;
 	order: number;
 	slug: string;
-	prev?: { slug: string; title: string };
-	next?: { slug: string; title: string };
 }
 
-const { title, description, slug, prev, next } = Astro.props;
+const { title, description, slug } = Astro.props;
 ---
 
 <html lang="en">
@@ -125,57 +123,15 @@ const { title, description, slug, prev, next } = Astro.props;
 			.prose :global(em) {
 				font-style: italic;
 			}
-			.article-nav {
+			.article-footer {
 				max-width: 860px;
 				margin: 0 auto;
-				padding: 2rem 1.25rem 4rem;
-				display: flex;
-				justify-content: space-between;
-				gap: 1.5rem;
+				padding: 1.5rem 1.25rem 4rem;
 				border-top: 1px solid var(--rule);
-			}
-			.nav-link {
-				text-decoration: none;
-				max-width: 45%;
-			}
-			.nav-label {
-				font-family: "Inter", Georgia, serif;
-				font-size: 0.68rem;
-				letter-spacing: 0.14em;
-				text-transform: uppercase;
-				color: rgb(var(--gray));
-				display: block;
-				margin-bottom: 0.35rem;
-			}
-			.nav-title {
-				font-family: "Playfair Display", Georgia, serif;
-				font-size: 0.95rem;
-				color: rgb(var(--black));
-				transition: color 0.15s;
-				display: block;
-				line-height: 1.35;
-			}
-			.nav-link:hover .nav-title {
-				color: var(--accent);
-			}
-			.nav-next {
-				text-align: right;
-				margin-left: auto;
 			}
 			@media (max-width: 720px) {
 				.article-header {
 					padding: 1.25rem 1.25rem 0;
-				}
-				.article-nav {
-					flex-direction: column;
-					gap: 1.5rem;
-				}
-				.nav-next {
-					text-align: left;
-					margin-left: 0;
-				}
-				.nav-link {
-					max-width: 100%;
 				}
 			}
 		</style>
@@ -194,22 +150,9 @@ const { title, description, slug, prev, next } = Astro.props;
 				<slot />
 			</div>
 
-			{(prev || next) && (
-				<nav class="article-nav" aria-label="Article navigation">
-					{prev && (
-						<a class="nav-link" href={`/articles/${prev.slug}/`}>
-							<span class="nav-label">← Previous</span>
-							<span class="nav-title">{prev.title}</span>
-						</a>
-					)}
-					{next && (
-						<a class="nav-link nav-next" href={`/articles/${next.slug}/`}>
-							<span class="nav-label">Next →</span>
-							<span class="nav-title">{next.title}</span>
-						</a>
-					)}
-				</nav>
-			)}
+			<div class="article-footer">
+				<a class="breadcrumb" href={`/articles#${slug}`}>← Articles</a>
+			</div>
 		</main>
 		<Footer />
 	</body>

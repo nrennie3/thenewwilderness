@@ -4,7 +4,7 @@ order: 50
 description: "Five concrete skills for building physical resilience and face-to-face trust with your nearest neighbors."
 ---
 
-Each circle involves a body of practice. Just as any skill requires practice to achieve mastery, the same is true here. Below are some ideas for practicing the skill of community within this framework.
+Each resilience circle involves a body of practice. Just as any skill requires practice to achieve mastery, the same is true here. Below are some ideas for practicing the skill of community within your local block.
 
 ---
 
@@ -12,7 +12,7 @@ Each circle involves a body of practice. Just as any skill requires practice to 
 
 **1. Have a Neighbor Over for No Reason**
 
-The simplest and most underused tool in building a resilient block is also the most obvious: invite a neighbor to dinner, go fishing, or to help you smoke a brisket on a Saturday afternoon. Not a neighborhood event, not a structured program—just two families, an ordinary evening, and enough time for real conversation to happen. The skill being practiced is the lost art of initiating without an agenda, which turns out to be surprisingly difficult for adults who've spent decades letting digital convenience substitute for face-to-face relationship. Most neighbors are strangers not because they're unfriendly but because nobody went first. Go first. Do it again with a different neighbor. Do it until your block has enough accumulated shared meals and shared afternoons that the social fabric feels real rather than theoretical—because when a crisis comes, you will not band together with people whose names you half-remember. You will band together with people whose kids you know, whose cooking you've eaten, and whose company you've genuinely enjoyed.
+The simplest and most underused tool in building a resilient block is also the most obvious: invite a neighbor to dinner, go fishing, or help them smoke a brisket on a Saturday afternoon. Not a neighborhood event — just two families, an ordinary evening, enough time for real conversation. Most neighbors are strangers not because they're unfriendly but because nobody went first. Go first. Do it again with a different neighbor. Because when a crisis comes, you won't band together with people whose names you half-remember — you'll band together with people whose kids you know and whose company you've genuinely enjoyed.
 
 **2. Run a Low-Tech Drill for One Life-Sustaining System**
 

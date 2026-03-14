@@ -4,6 +4,10 @@ order: 70
 description: "Five concrete skills for building spiritual and social resilience with a close circle of faith-sharing families."
 ---
 
+Each resilience circle involves a body of practice. Just as any skill requires practice to achieve mastery, the same is true here. Below are some ideas for practicing the skill of community within your local hearth.
+
+---
+
 ## Five Skills to Practice for The Hearth
 
 **1. Protect and Ritualize the Lord's Day**

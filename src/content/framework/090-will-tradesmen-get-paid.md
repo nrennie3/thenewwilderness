@@ -1,6 +1,6 @@
 ---
 title: "Will Tradesmen Get Paid?"
-order: 100
+order: 90
 description: "As humanoid robots handle every job around the house, a tradesman discovers what was never truly for sale."
 ---
 

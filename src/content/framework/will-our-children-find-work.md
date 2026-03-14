@@ -1,12 +1,12 @@
 ---
 title: "Will Our Children Find Work?"
-order: 20
+order: 30
 description: "When the bottom rung of the career ladder vanishes overnight, a family must choose between dependence and defiance."
 ---
 
 The bottom rung of the career ladder is being cut off. Historically, young people did the grunt work—answering phone calls, site cleanup, and similar tasks—to learn a job. Today, these tasks are starting to be performed by AI for pennies, leaving only jobs that require higher-level mastery. If you can't start at the bottom because a machine is already there, it becomes nearly impossible to get the experience needed to reach the top.
 
-> **Some Early Evidence:** A Stanford Digital Economy Lab study (August 2025) found that early-career workers aged 22–25 in AI-exposed fields saw a 16% relative decline in employment from late 2022 to mid-2025 — while workers over 30 in the same fields saw employment *grow* by 6–12%. Entry-level job listings in AI-exposed fields fell 13% over the same period. The Federal Reserve Bank of New York reports that underemployment among recent college graduates hit 42.5% in 2025 — its highest level since 2020 — while only 30% of the Class of 2025 had secured full-time work in their field by mid-year. The burden of AI displacement, so far, falls almost entirely on those just starting out.
+> **Some Early Evidence:** A 2025 Stanford University study found that employment for workers aged 22–25 in "AI-exposed" fields has already dropped by 13%. Furthermore, TeamLease Digital (2025) reports that true entry-level intake in sectors like IT has plummeted from 80% in 2021 to just 25% today, as companies prioritize senior "AI-augmented" staff over training new workers. These trends, which are primarily impacting white collar work today, are expected to begin impacting blue collar work by 2030.
 
 ---
 ## The Provision
@@ -43,4 +43,4 @@ John kept staring at the ultrasound, motionless but for the slow rhythmic outlin
 
 I asked him if it would be alright if I said a prayer for the child, for Veronica, and for his job search. As I said, "Amen," I felt something stir in me. A realization. A chilling clarity. I stared at the scarred oak of the table and understood that it was a headstone for a dying age, a time when a man's labor was his leverage, a fair trade that bought his family the right to be left alone. Now, that social contract was being severed. The corporate machine and the state were merging into a single, seamless provider, decoupling us from being masters of our own craft to being permanent clients of a system that no longer required our hands and minds to function.
 
-I shot a glance at John, concern showing in the creases of my forehead. But I didn't see what I expected to see. John was smiling to himself, and I saw in his eyes something fierce—new sparks of an ancient rebellion. He said, "Thanks Dad. Accounting was overrated anyway." He paused a moment, then looked up slyly, "You and mom have any plans for that old barn by the creek?" There was a glint in his eyes that I hadn't seen since his childhood. I knew God was moving, a Spirit over the void.
+I shot a glance at John, concern showing in the creases of my forehead. But I didn't see what I expected to see. John was smiling to himself, and I saw in his eyes something fierce—new sparks of an old rebellion. He said, "Thanks Dad. Accounting was overrated anyway." He paused a moment, then looked up slyly, "You and mom have any plans for that old barn by the creek?" There was a glint in his eyes that I hadn't seen since his childhood. I knew God was moving, a Spirit over the void.

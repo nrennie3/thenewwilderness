@@ -4,7 +4,11 @@ order: 40
 description: "Three Circles of Resilience—the Block, the Hearth, and the County—for remaining free, faithful, and fully human in the age of AI."
 ---
 
-While the outside world may grow colder and increasingly artificial, we gather around the community of our neighbors and the fire of our faith to keep the "human spark" alive. To turn this vision into action, we propose a framework of three "Circles of Resilience." Individually, none of then are new ideas. Combining them is the key.
+The horizon is shifting quickly, and it is worth asking: Do we wait for this future to arrive on its own terms, or do we begin a patient, sincere conversation about how to meet it on ours?
+
+This is an invitation to dialogue. We do not claim to have every answer, nor do we wish to foster alarm. Often, when people hear about preparation, they see it as a "retreat of fear" or an attempt to hide from the world. We propose the opposite: a strategic regrouping.
+
+While the outside world may grow colder and increasingly artificial, we gather around the community of our neighbors and the fire of our faith to keep the "human spark" alive. To turn this vision into action, we propose a framework of three "Circles of Resilience." Individually, none of these are new ideas. Combining them is the key.
 
 The circles are rooted in the conviction that the most effective way to meet a global shift of this magnitude is through local, human-scale responses. By organizing our efforts through the Block, the Hearth, and the County, we build the physical, spiritual, and civic infrastructure necessary to remain free, faithful, and fully human in an age of increasing artificiality and growing unpredictability.
 
@@ -20,9 +24,9 @@ It means knowing which of your neighbors is willing to fix a pump, who has advan
 
 ### Circle 2: The Hearth (Spiritual & Social Resilience)
 
-The second circle is the "Hearth": a group of families from the same church who live within a reasonable driving distance and commit to keeping warm the fire of faith in a world that is becoming increasingly cold and artificial. Here, Sunday is protected — not just as a day off but as the heartbeat of the week, a rhythm of worship and shared life that resists the machine's demand for constant availability. 
+The second circle is the "Hearth": a group of families from the same church who live within a reasonable driving distance and commit to keeping warm the fire of faith in a world that is becoming increasingly cold and artificial. Here, we make the Lord's Day the heartbeat of the week, protecting Sunday for worship and community while perhaps even practicing a digital fast that allows us to be present with our children and each other.
 
-Together, the Hearth also practices something like the Amish tradition of communal technology discernment: rather than each family absorbing new technologies by default, we decide together which tools serve our life and which slowly replace it. We are not Luddites — we believe in tools that serve human work and human flourishing — but we draw a firm line at tools of augmentation that blur the boundary between the human and the artificial. In this circle, we choose real mentors and real friendships over the convenient simulations of AI. By tending the fire together, we ensure that no family carries the burden of this post-human transition alone.
+We aren't looking to become Luddites, but we do seek a practical, Amish-like approach to technology where we choose take-it-or-leave-it tools that help us work ("tools of the hand" like axes and limited smartphones), while rejecting integration tools that merge us into the machine ("tools of augmentation" like neuralink or bio-upgrades). In this circle, we choose real mentors and real friendships over the convenient simulations of AI. By tending the fire together, we ensure that no family carries the burden of this post-human transition alone.
 
 ---
 
