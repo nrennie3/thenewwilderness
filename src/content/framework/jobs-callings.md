@@ -1,5 +1,5 @@
 ---
-title: "What jobs will survive into a post-AI world?"
+title: "Which Jobs Will Survive a Post-AI World?"
 order: 14
 description: "Suggestions by time horizon, with the reasoning behind each."
 ---

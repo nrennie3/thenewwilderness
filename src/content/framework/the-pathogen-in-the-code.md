@@ -1,10 +1,8 @@
 ---
-title: "Will AI induce a pandemic?"
+title: "Will AI Induce a Pandemic?"
 order: 6
 description: "The barrier to designing a virus has dropped from a $100 million lab to a high-powered laptop and a grudge."
 ---
-
-We ask the question "What is the probability that an AI-generated pandemic will occur in the next 5 years?"
 
 The barrier to designing a virus has dropped from a $100 million lab and a team of PhDs to a high-powered laptop and a grudge. AI is beginning to turn biology into code as if it were a language, allowing anyone with a basic chemistry background to follow step-by-step manuals for synthesizing pathogens.
 
@@ -14,7 +12,7 @@ The barrier to designing a virus has dropped from a $100 million lab and a team 
 
 ## The Pandemic
 
-*A work of literary fiction.*
+*What follows is a work of fiction — an imaginative look at one possible future, offered not to alarm but to help us think, pray, and prepare.*
 
 When the first headlines hit, my irritation rose before I finished reading. NEW OUTBREAK. EXPERTS URGE RESTRICTIONS. I'd lived through enough pandemic rhetoric to distrust the tone. I wasn't raising my kids to outsource prudence to a press conference. People need people: church, school, potlucks, neighbors. The cure can't be worse than the disease. I pocketed my phone and went back to the kitchen.
 

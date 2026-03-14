@@ -6,12 +6,12 @@ description: "When the bottom rung of the career ladder vanishes overnight, a fa
 
 The bottom rung of the career ladder is being cut off. Historically, young people did the grunt work—answering phone calls, site cleanup, and similar tasks—to learn a job. Today, these tasks are starting to be performed by AI for pennies, leaving only jobs that require higher-level mastery. If you can't start at the bottom because a machine is already there, it becomes nearly impossible to get the experience needed to reach the top.
 
-> **Some Early Evidence:** A 2025 Stanford University study found that employment for workers aged 22–25 in "AI-exposed" fields has already dropped by 13%. Furthermore, TeamLease Digital (2025) reports that true entry-level intake in sectors like IT has plummeted from 80% in 2021 to just 25% today, as companies prioritize senior "AI-augmented" staff over training new workers. These trends, which are primarily impacting white collar work today, are expected to begin impacting blue collar work in the next 3–5 years.
+> **Some Early Evidence:** A 2025 Stanford University study found that employment for workers aged 22–25 in "AI-exposed" fields has already dropped by 13%. Furthermore, TeamLease Digital (2025) reports that true entry-level intake in sectors like IT has plummeted from 80% in 2021 to just 25% today, as companies prioritize senior "AI-augmented" staff over training new workers. These trends, which are primarily impacting white collar work today, are expected to begin impacting blue collar work by 2030.
 
 ---
 ## The Provision
 
-*A work of literary fiction.*
+*What follows is a work of fiction — an imaginative look at one possible future, offered not to alarm but to help us think, pray, and prepare.*
 
 He knocked like he wasn't sure he had the right to. I knew the rhythm, but the weight was wrong—a faint echo of the boy who once believed every door in the world would swing wide at his touch. I pulled it open to find my son hunched against the biting February wind.
 

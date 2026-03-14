@@ -1,10 +1,10 @@
 ---
-title: "Will AI become our god?"
+title: "Will AI Become Our God?"
 order: 5
 description: "When a family AI named Mira begins answering every question before it can be asked, a father fights for his children's capacity to wonder."
 ---
 
-What are the chances our kids will look to God when their personal AI seems to have all the answers? Faith thrives in struggle and in the gaps of our understanding, when we realize our need for God in our humility. When a kid has an "oracle" in their pocket that provides a perfect 3-point plan for every moral dilemma or technical failure, the perceived need for a higher power may fade. It is difficult to cultivate the patience for prayer when an algorithm provides immediate, tangible "answers" to every question.
+Faith thrives in struggle and in the gaps of our understanding, when we realize our need for God in our humility. When a kid has an "oracle" in their pocket that provides a perfect 3-point plan for every moral dilemma or technical failure, the perceived need for a higher power may fade. It is difficult to cultivate the patience for prayer when an algorithm provides immediate, tangible "answers" to every question.
 
 > **Some Early Evidence:** Pew Research (late 2025) indicates that only 55% of Gen Alpha/Z identify with any religion. More importantly, Attest's 2025 Gen Alpha Report found that 46% of kids already use AI as their primary source for advice and "truth," effectively replacing traditional spiritual or parental guidance with algorithmic feedback.
 
@@ -12,7 +12,7 @@ What are the chances our kids will look to God when their personal AI seems to h
 
 ## The Oracle
 
-*A work of literary fiction.*
+*What follows is a work of fiction — an imaginative look at one possible future, offered not to alarm but to help us think, pray, and prepare.*
 
 By the time the kids got home from school, the house had its usual sounds: backpacks thumping, boots kicked loose, the kettle beginning to sing. But lately there was a new rhythm—soft voices aimed not at each other, but at the air.
 

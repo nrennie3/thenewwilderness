@@ -1,12 +1,10 @@
 ---
-title: "Will tradesmen get paid?"
+title: "Will Tradesmen Get Paid?"
 order: 3
 description: "As humanoid robots handle every job around the house, a tradesman discovers what was never truly for sale."
 ---
 
-*We ask the question: "What is the likelihood that our clients will pay for our services in 2030 when they have access to their own personal AI and humanoid robots?"*
-
-This is DIY on steroids. We hire experts for their knowledge or their tools, but by 2030, the knowledge will be in everyone's pocket and the tools may even be in their garage. Even if we want to support human workers by paying a premium, job loss or other cost pressures may force us to rely on our $15k all-purpose home robot. Perhaps those who can't afford a robot will just put on augmented reality goggles while AI walks them through that tricky leak, rather than having to call a plumber.
+What is the likelihood that our clients will pay for our services (say in 2030) when they have access to their own personal AI and humanoid robots? This is DIY on steroids. We hire experts for their knowledge or their tools, but by 2030, the knowledge will be in everyone's pocket and the tools may even be in their garage. Even if we want to support human workers by paying a premium, job loss or other cost pressures may force us to rely on our $15k all-purpose home robot. Perhaps those who can't afford a robot will just put on augmented reality goggles while AI walks them through that tricky leak, rather than having to call a plumber.
 
 > **Some Early Evidence:** In 2024–2025, BMW and Figure AI successfully piloted humanoid robots in Spartanburg, SC, where they performed complex "pick-and-place" tasks for 1,250 hours with minimal human intervention. On the white-collar side, Anthropic's 2026 "Cowork" release sent shockwaves through the legal industry, automating contract reviews and risk assessments so effectively that stocks for traditional legal service giants like Thomson Reuters and LexisNexis plunged by 10–16% in a single week.
 
@@ -14,7 +12,7 @@ This is DIY on steroids. We hire experts for their knowledge or their tools, but
 
 ## The Prayer
 
-*A work of literary fiction.*
+*What follows is a work of fiction — an imaginative look at one possible future, offered not to alarm but to help us think, pray, and prepare.*
 
 The first time it happened, I tried to laugh. A woman from down the road—someone I'd patched drywall for, someone whose kids had sat at my table—met me at her porch with a sympathetic smile and a cardboard box of muffins.
 

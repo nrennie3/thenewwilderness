@@ -1,5 +1,5 @@
 ---
-title: "Would your family survive a disaster?"
+title: "Would Your Family Survive a Disaster?"
 order: 7
 description: "History shows that isolated families rarely survive a true crisis. The primary unit of resilience has always been the community."
 ---
@@ -12,7 +12,7 @@ What are the chances a family can survive alone in a prolonged disaster scenario
 
 ## The Silence
 
-*A work of literary fiction.*
+*What follows is a work of fiction — an imaginative look at one possible future, offered not to alarm but to help us think, pray, and prepare.*
 
 Three months after the sky went silent, we stopped measuring time by news and started measuring it by chores. The first week, everyone called it an "event," like a storm with a clear end. Then the phones died for good. The truck that still ran became a treasure we used sparingly, with purpose. The solar panels survived, but the charge controller didn't. Half the neighbors' generators worked until the last treated gas turned sour, and then the valley learned the sound of true quiet: no highway hum, no distant planes, no freezer motors cycling at night. People said Russia had thrown EMPs like stones—desperate to blind the world's machines and level the AI race. We never saw the proof. We saw the results: dead screens, dead supply chains, dead certainty.
 

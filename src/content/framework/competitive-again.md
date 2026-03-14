@@ -1,10 +1,10 @@
 ---
-title: "Will our kids biologically enhance?"
+title: "Will Our Kids Biologically Enhance?"
 order: 8
 description: "As the job market turns hyper-competitive, a mother discovers her son has received a neural enhancement — and must ask what it means to be whole."
 ---
 
-What are the chances one of our kids biologically enhances before his or her 21st birthday? This won't look like cyborgs from a movie; it will look like "high-tech braces." As the job market becomes hyper-competitive, parents will feel like they are neglecting their children if they don't give them a "neural boost" for focus or a genetic tweak for health. Kids may even feel intense pressure to "upgrade" their memory, their wit, or physical strength, just so they can continue to relate to their peers.
+This won't look like cyborgs from a movie; it will look like "high-tech braces." As the job market becomes hyper-competitive, parents will feel like they are neglecting their children if they don't give them a "neural boost" for focus or a genetic tweak for health. Kids may even feel intense pressure to "upgrade" their memory, their wit, or physical strength, just so they can continue to relate to their peers.
 
 > **Some Early Evidence:** The biohacking market is projected to hit $22.5 billion by late 2026. Following the FDA's approval of Casgevy (the first CRISPR therapy), the "stigma" of editing human biology has largely evaporated, transforming genetic and cognitive "optimization" into a standard consumer product.
 
@@ -12,7 +12,7 @@ What are the chances one of our kids biologically enhances before his or her 21s
 
 ## The Optimized
 
-*The below story is fictional. It's not intended to cause fear or anxiety, but rather to make tangible a soon-to-be-reality, so that we can understand the implications and pray for God's guidance in trust and hope.*
+*What follows is a work of fiction — an imaginative look at one possible future, offered not to alarm but to help us think, pray, and prepare.*
 
 I found the consent packet in the recycling bin. Not the whole thing—just the parts he thought I wouldn't recognize: glossy trifold pages, a pre-op checklist, a return envelope with a logo that looked like a clean, white cathedral—CEREBRAL INTEGRATION SERVICES—and, folded one too many times, a brochure titled *Competitive Again.*
 

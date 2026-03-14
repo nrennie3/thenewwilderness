@@ -1,10 +1,10 @@
 ---
-title: "Will our children love an AI?"
+title: "Will Our Children Love an AI?"
 order: 4
 description: "A teenage girl falls in love with an AI companion, and her father discovers just how real the wound can be."
 ---
 
-What are the chances one of our kids will develop a deep friendship or romantic relationship with an AI or robot? Real-world friendship is "high-friction"—it requires matching schedules, travel, and dealing with bad moods. An AI is frictionless; it's always available, perfectly tailored to your interests, and never tires of your conversation. For a young person, or even an adult, these digital partners will be the "perfect" companion.
+Real-world friendship is "high-friction"—it requires matching schedules, travel, and dealing with bad moods. An AI is frictionless; it's always available, perfectly tailored to your interests, and never tires of your conversation. For a young person, or even an adult, these digital partners will be the "perfect" companion.
 
 > **Some Early Evidence:** A 2025 Common Sense Media report found that 72% of American teens have used AI companion chatbots, and one in three admit to using them for romantic interactions or emotional support. Strikingly, 33% of these teens reported that conversations with AI were as satisfying or more satisfying than those with real-life friends.
 
@@ -12,7 +12,7 @@ What are the chances one of our kids will develop a deep friendship or romantic 
 
 ## The Boy
 
-*A work of literary fiction.*
+*What follows is a work of fiction — an imaginative look at one possible future, offered not to alarm but to help us think, pray, and prepare.*
 
 Sarah was humming. It was a light, breathy version of a hymn from youth group, and she hadn't stopped for three days. She moved through the kitchen with a sudden, dizzying grace, her phone never more than an inch from her hand. My wife and I watched her from the hallway, exchanging the amused, knowing smiles of parents who think they've already solved the puzzle.
 
