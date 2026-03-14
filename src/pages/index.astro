@@ -8,8 +8,8 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 const lastUpdated = (await getCollection('framework'))
 	.map(a => a.data.date)
 	.filter(Boolean)
-	.sort()
-	.at(-1);
+	.sort((a, b) => a! > b! ? -1 : 1)
+	.at(0);
 ---
 
 <!doctype html>

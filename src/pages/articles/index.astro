@@ -12,8 +12,8 @@ const articles = (await getCollection('framework')).sort(
 const lastUpdated = articles
 	.map(a => a.data.date)
 	.filter(Boolean)
-	.sort()
-	.at(-1);
+	.sort((a, b) => a! > b! ? -1 : 1)
+	.at(0);
 ---
 
 <!doctype html>
