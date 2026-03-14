@@ -6,7 +6,7 @@ description: "When the bottom rung of the career ladder vanishes overnight, a fa
 
 The bottom rung of the career ladder is being cut off. Historically, young people did the grunt work—answering phone calls, site cleanup, and similar tasks—to learn a job. Today, these tasks are starting to be performed by AI for pennies, leaving only jobs that require higher-level mastery. If you can't start at the bottom because a machine is already there, it becomes nearly impossible to get the experience needed to reach the top.
 
-> **Some Early Evidence:** A 2025 Stanford University study found that employment for workers aged 22–25 in "AI-exposed" fields has already dropped by 13%. Furthermore, TeamLease Digital (2025) reports that true entry-level intake in sectors like IT has plummeted from 80% in 2021 to just 25% today, as companies prioritize senior "AI-augmented" staff over training new workers. These trends, which are primarily impacting white collar work today, are expected to begin impacting blue collar work by 2030.
+> **Some Early Evidence:** A Stanford Digital Economy Lab study (August 2025) found that early-career workers aged 22–25 in AI-exposed fields saw a 16% relative decline in employment from late 2022 to mid-2025 — while workers over 30 in the same fields saw employment *grow* by 6–12%. Entry-level job listings in AI-exposed fields fell 13% over the same period. The Federal Reserve Bank of New York reports that underemployment among recent college graduates hit 42.5% in 2025 — its highest level since 2020 — while only 30% of the Class of 2025 had secured full-time work in their field by mid-year. The burden of AI displacement, so far, falls almost entirely on those just starting out.
 
 ---
 ## The Provision
