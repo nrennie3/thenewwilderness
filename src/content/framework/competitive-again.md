@@ -12,7 +12,7 @@ What are the chances one of our kids biologically enhances before his or her 21s
 
 ## The Optimized
 
-*The below story is fictional. It's not intended to cause fear or anxiety, but rather to make tangible a soon-to-be-reality, so that we can better plan our choices as parents*
+*The below story is fictional. It's not intended to cause fear or anxiety, but rather to make tangible a soon-to-be-reality, so that we can understand the implications and pray for God's guidance in trust and hope.*
 
 I found the consent packet in the recycling bin. Not the whole thing—just the parts he thought I wouldn't recognize: glossy trifold pages, a pre-op checklist, a return envelope with a logo that looked like a clean, white cathedral—CEREBRAL INTEGRATION SERVICES—and, folded one too many times, a brochure titled *Competitive Again.*
 
