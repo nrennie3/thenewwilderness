@@ -4,10 +4,6 @@ order: 40
 description: "Three Circles of Resilience—the Block, the Hearth, and the County—for remaining free, faithful, and fully human in the age of AI."
 ---
 
-The horizon is shifting quickly, and it is worth asking: Do we wait for this future to arrive on its own terms, or do we begin a patient, sincere conversation about how to meet it on ours?
-
-This is an invitation to dialogue. We do not claim to have every answer, nor do we wish to foster alarm. Often, when people hear about preparation, they see it as a "retreat of fear" or an attempt to hide from the world. We propose the opposite: a strategic regrouping.
-
 While the outside world may grow colder and increasingly artificial, we gather around the community of our neighbors and the fire of our faith to keep the "human spark" alive. To turn this vision into action, we propose a framework of three "Circles of Resilience." Individually, none of these are new ideas. Combining them is the key.
 
 The circles are rooted in the conviction that the most effective way to meet a global shift of this magnitude is through local, human-scale responses. By organizing our efforts through the Block, the Hearth, and the County, we build the physical, spiritual, and civic infrastructure necessary to remain free, faithful, and fully human in an age of increasing artificiality and growing unpredictability.
