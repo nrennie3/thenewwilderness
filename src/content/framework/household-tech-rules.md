@@ -1,5 +1,5 @@
 ---
-title: "What types of family tech rules should we consider?"
+title: "What family tech rules should we consider?"
 order: 11
 description: "Ideas and strategies for mitigating the dangers and traps of devices and AI."
 ---
