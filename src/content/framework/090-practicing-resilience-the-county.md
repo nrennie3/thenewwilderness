@@ -1,6 +1,6 @@
 ---
 title: "Practicing Resilience: The County"
-order: 12
+order: 90
 description: "Five concrete skills for building civic resilience and protecting human dignity at the local government level."
 ---
 

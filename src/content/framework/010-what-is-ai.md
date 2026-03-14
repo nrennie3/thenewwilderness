@@ -1,6 +1,6 @@
 ---
 title: "What is AI?"
-order: 1
+order: 10
 description: "Understanding artificial intelligence—not as a computer program, but as a neural network trained to predict, evolve, and reshape the world."
 ---
 

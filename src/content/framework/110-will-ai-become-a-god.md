@@ -1,6 +1,6 @@
 ---
 title: "Will AI Become Our God?"
-order: 5
+order: 110
 description: "When a family AI named Mira begins answering every question before it can be asked, a father fights for his children's capacity to wonder."
 ---
 

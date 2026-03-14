@@ -1,6 +1,6 @@
 ---
 title: "Will Our Children Find Work?"
-order: 2
+order: 20
 description: "When the bottom rung of the career ladder vanishes overnight, a family must choose between dependence and defiance."
 ---
 

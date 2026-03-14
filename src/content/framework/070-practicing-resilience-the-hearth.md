@@ -1,6 +1,6 @@
 ---
 title: "Practicing Resilience: The Hearth"
-order: 11
+order: 70
 description: "Five concrete skills for building spiritual and social resilience with a close circle of faith-sharing families."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Will Our Children Love an AI?"
-order: 4
+order: 80
 description: "A teenage girl falls in love with an AI companion, and her father discovers just how real the wound can be."
 ---
 

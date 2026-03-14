@@ -1,6 +1,6 @@
 ---
 title: "Which Jobs Will Survive a Post-AI World?"
-order: 14
+order: 30
 description: "Suggestions by time horizon, with the reasoning behind each."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Will AI Induce a Pandemic?"
-order: 6
+order: 60
 description: "The barrier to designing a virus has dropped from a $100 million lab to a high-powered laptop and a grudge."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Practicing Resilience: The Block"
-order: 10
+order: 50
 description: "Five concrete skills for building physical resilience and face-to-face trust with your nearest neighbors."
 ---
 
