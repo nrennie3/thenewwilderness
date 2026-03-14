@@ -1,15 +1,12 @@
 ---
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 ---
 
 <header>
 	<div class="masthead">
 		<div class="masthead-inner">
-			<div class="brand">
-				<a href="/" class="site-title">{SITE_TITLE}</a>
-				<p class="tagline">{SITE_DESCRIPTION}</p>
-			</div>
+			<a href="/" class="site-title">{SITE_TITLE}</a>
 			<nav>
 				<HeaderLink href="/">Home</HeaderLink>
 				<span class="sep" aria-hidden="true">·</span>
@@ -38,14 +35,9 @@ import HeaderLink from './HeaderLink.astro';
 		gap: 1.5rem;
 		padding: 1.5rem 0 1.25rem;
 	}
-	.brand {
-		display: flex;
-		flex-direction: column;
-		gap: 0.2rem;
-	}
 	.site-title {
 		font-family: "Playfair Display", Georgia, serif;
-		font-size: 1.6rem;
+		font-size: 1.9rem;
 		font-weight: 700;
 		color: rgb(var(--black));
 		text-decoration: none;
@@ -54,13 +46,6 @@ import HeaderLink from './HeaderLink.astro';
 	}
 	.site-title:hover {
 		color: var(--accent);
-	}
-	.tagline {
-		font-family: "Inter", sans-serif;
-		font-size: 0.78rem;
-		color: rgb(var(--gray));
-		margin: 0;
-		letter-spacing: 0.01em;
 	}
 	nav {
 		display: flex;
@@ -96,10 +81,7 @@ import HeaderLink from './HeaderLink.astro';
 	}
 	@media (max-width: 500px) {
 		.site-title {
-			font-size: 1.3rem;
-		}
-		.tagline {
-			font-size: 0.72rem;
+			font-size: 1.4rem;
 		}
 	}
 </style>

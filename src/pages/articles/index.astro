@@ -91,7 +91,6 @@ const articles = (await getCollection('framework')).sort(
 	<body>
 		<Header />
 		<main>
-			<h1>Articles</h1>
 			<ol class="article-list">
 				{articles.map((article) => (
 					<li class="article-item">
