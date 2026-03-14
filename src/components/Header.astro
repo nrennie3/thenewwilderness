@@ -5,14 +5,17 @@ import HeaderLink from './HeaderLink.astro';
 
 <header>
 	<div class="masthead">
-		<div class="top-rule"></div>
-		<a href="/" class="site-title">{SITE_TITLE}</a>
-		<p class="tagline">{SITE_DESCRIPTION}</p>
-		<nav>
-			<HeaderLink href="/">Home</HeaderLink>
-			<span class="sep" aria-hidden="true">·</span>
-			<HeaderLink href="/articles">Articles</HeaderLink>
-		</nav>
+		<div class="masthead-inner">
+			<div class="brand">
+				<a href="/" class="site-title">{SITE_TITLE}</a>
+				<p class="tagline">{SITE_DESCRIPTION}</p>
+			</div>
+			<nav>
+				<HeaderLink href="/">Home</HeaderLink>
+				<span class="sep" aria-hidden="true">·</span>
+				<HeaderLink href="/articles">Articles</HeaderLink>
+			</nav>
+		</div>
 		<div class="bottom-rule"></div>
 	</div>
 </header>
@@ -26,48 +29,49 @@ import HeaderLink from './HeaderLink.astro';
 	.masthead {
 		max-width: 860px;
 		margin: 0 auto;
-		padding: 0 1rem;
-		text-align: center;
+		padding: 0 1.25rem;
 	}
-	.top-rule {
-		height: 3px;
-		background: rgb(var(--gray-dark));
-		margin-bottom: 1.75rem;
+	.masthead-inner {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 1.5rem;
+		padding: 1.5rem 0 1.25rem;
+	}
+	.brand {
+		display: flex;
+		flex-direction: column;
+		gap: 0.2rem;
 	}
 	.site-title {
-		display: block;
 		font-family: "Playfair Display", Georgia, serif;
-		font-size: 2.4rem;
+		font-size: 1.6rem;
 		font-weight: 700;
-		letter-spacing: 0.1em;
-		text-transform: uppercase;
 		color: rgb(var(--black));
 		text-decoration: none;
 		line-height: 1;
-		margin-bottom: 0.6rem;
+		letter-spacing: -0.01em;
 	}
 	.site-title:hover {
-		color: rgb(var(--black));
+		color: var(--accent);
 	}
 	.tagline {
-		font-family: "Inter", Georgia, serif;
-		font-style: italic;
-		font-size: 0.88rem;
+		font-family: "Inter", sans-serif;
+		font-size: 0.78rem;
 		color: rgb(var(--gray));
-		margin: 0 0 1.25rem 0;
+		margin: 0;
 		letter-spacing: 0.01em;
 	}
 	nav {
 		display: flex;
 		align-items: center;
-		justify-content: center;
 		gap: 0.2rem;
-		margin-bottom: 1.25rem;
+		flex-shrink: 0;
 	}
 	nav a {
-		font-family: "Inter", Georgia, serif;
+		font-family: "Inter", sans-serif;
 		font-size: 0.78rem;
-		letter-spacing: 0.14em;
+		letter-spacing: 0.1em;
 		text-transform: uppercase;
 		color: rgb(var(--gray-dark));
 		text-decoration: none;
@@ -79,7 +83,6 @@ import HeaderLink from './HeaderLink.astro';
 	}
 	nav a.active {
 		color: var(--accent);
-		text-decoration: none;
 		font-weight: 600;
 	}
 	.sep {
@@ -91,16 +94,12 @@ import HeaderLink from './HeaderLink.astro';
 		height: 1px;
 		background: var(--rule);
 	}
-	@media (max-width: 600px) {
-		.site-title {
-			font-size: 1.7rem;
-			letter-spacing: 0.07em;
-		}
+	@media (max-width: 500px) {
 		.tagline {
 			display: none;
 		}
-		.top-rule {
-			margin-bottom: 1.25rem;
+		.site-title {
+			font-size: 1.3rem;
 		}
 	}
 </style>
