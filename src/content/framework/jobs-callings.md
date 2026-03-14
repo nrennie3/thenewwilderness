@@ -1,6 +1,6 @@
 ---
 title: "Jobs & Callings That Will Likely Survive a Post-AI World"
-order: 7
+order: 12
 description: "A clear-eyed guide to durable vocations in the age of artificial intelligence—organized by time horizon, with the reasoning behind each."
 ---
 

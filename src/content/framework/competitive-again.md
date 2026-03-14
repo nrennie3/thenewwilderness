@@ -1,12 +1,20 @@
 ---
-title: 'Vignette #7: The Optimized'
-description: 'A mother discovers her son has received a neural enhancement — and must ask what it means to be whole. A fictional story from the Christian Resilience Framework.'
-pubDate: 'Feb 21 2026'
+title: "Competitive Again"
+order: 8
+description: "As the job market turns hyper-competitive, a mother discovers her son has received a neural enhancement — and must ask what it means to be whole."
 ---
 
-*This is a work of literary fiction illustrating [Probability #7](/framework#seven-probabilities) from the Christian Resilience Framework.*
+### What is the probability that one of our kids biologically enhances before his or her 21st birthday?
+
+This won't look like cyborgs from a movie; it will look like "high-tech braces." As the job market becomes hyper-competitive, parents will feel like they are neglecting their children if they don't give them a "neural boost" for focus or a genetic tweak for health. Kids may even feel intense pressure to "upgrade" their memory, their wit, or physical strength, just so they can continue to relate to their peers.
+
+> **Some Early Evidence:** The biohacking market is projected to hit $22.5 billion by late 2026. Following the FDA's approval of Casgevy (the first CRISPR therapy), the "stigma" of editing human biology has largely evaporated, transforming genetic and cognitive "optimization" into a standard consumer product.
 
 ---
+
+## The Optimized
+
+*A work of literary fiction.*
 
 I found the consent packet in the recycling bin. Not the whole thing—just the parts he thought I wouldn't recognize: glossy trifold pages, a pre-op checklist, a return envelope with a logo that looked like a clean, white cathedral—CEREBRAL INTEGRATION SERVICES—and, folded one too many times, a brochure titled *Competitive Again.*
 

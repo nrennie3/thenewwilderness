@@ -1,6 +1,6 @@
 ---
 title: "Practicing Resilience"
-order: 5
+order: 10
 description: "Fifteen concrete skills—five for each Circle—for building the physical, spiritual, and civic resilience your family and community will need."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Household Tech Rules"
-order: 6
+order: 11
 description: "A tiered framework governing all internet-connected devices in the household—from young children through adulthood—rooted in earned trust and human flourishing."
 ---
 

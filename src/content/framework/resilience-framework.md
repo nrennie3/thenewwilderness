@@ -1,6 +1,6 @@
 ---
 title: "The Resilience Framework"
-order: 4
+order: 9
 description: "Three Circles of Resilience—the Block, the Hearth, and the County—for remaining free, faithful, and fully human in the age of AI."
 ---
 

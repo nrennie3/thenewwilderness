@@ -1,12 +1,20 @@
 ---
-title: 'Vignette #5: The Pandemic'
-description: 'A skeptical mother must reconcile her distrust of institutions with the gathering weight of an AI-engineered threat. A fictional story from the Christian Resilience Framework.'
-pubDate: 'Feb 23 2026'
+title: "The Pathogen in the Code"
+order: 6
+description: "The barrier to designing a virus has dropped from a $100 million lab to a high-powered laptop and a grudge."
 ---
 
-*This is a work of literary fiction illustrating [Probability #5](/framework#seven-probabilities) from the Christian Resilience Framework.*
+### What is the probability that an AI-generated pandemic will occur in the next 5 years?
+
+The barrier to designing a virus has dropped from a $100 million lab and a team of PhDs to a high-powered laptop and a grudge. AI is beginning to turn biology into code as if it were a language, allowing anyone with a basic chemistry background to follow step-by-step manuals for synthesizing pathogens.
+
+> **Some Early Evidence:** The release of ESM3 in late 2024 demonstrated that AI can now "simulate 500 million years of evolution" to create entirely new proteins. A 2025 biosecurity evaluation showed that ESM3 could reconstruct 85% of a redacted viral sequence, proving that current biosecurity guardrails are essentially useless against modern protein-language models.
 
 ---
+
+## The Pandemic
+
+*A work of literary fiction.*
 
 When the first headlines hit, my irritation rose before I finished reading. NEW OUTBREAK. EXPERTS URGE RESTRICTIONS. I'd lived through enough pandemic rhetoric to distrust the tone. I wasn't raising my kids to outsource prudence to a press conference. People need people: church, school, potlucks, neighbors. The cure can't be worse than the disease. I pocketed my phone and went back to the kitchen.
 

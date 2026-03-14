@@ -1,12 +1,20 @@
 ---
-title: 'Vignette #6: The Silence'
-description: 'When an EMP takes down the grid, a rural family discovers that the only network that held was the one running from heaven to the kitchen table. A fictional story from the Christian Resilience Framework.'
-pubDate: 'Feb 22 2026'
+title: "No Family Is an Island"
+order: 7
+description: "History shows that isolated families rarely survive a true crisis. The primary unit of resilience has always been the community."
 ---
 
-*This is a work of literary fiction illustrating [Probability #6](/framework#seven-probabilities) from the Christian Resilience Framework.*
+### What is the probability that a family could survive alone in a prolonged disaster scenario?
+
+The "lone wolf" is a dead end because of the Complexity Trap. Modern life is too tethered to a global machine. History shows that when the big systems fail, isolated families usually succumb to simple things like a tooth infection or a broken pump that they no longer have the parts to fix. However, a tight-knit local community can survive by sharing specialized skills and a "reservoir" of social trust.
+
+> **Some Early Evidence:** A 2025 study from NORC at the University of Chicago found that in disaster scenarios, social capital—the trust and networks within a community—is a better predictor of survival than wealth or physical infrastructure. Residents in high-trust communities were three times more likely to survive and rebuild than those attempting to weather the storm in isolation.
 
 ---
+
+## The Silence
+
+*A work of literary fiction.*
 
 Three months after the sky went silent, we stopped measuring time by news and started measuring it by chores. The first week, everyone called it an "event," like a storm with a clear end. Then the phones died for good. The truck that still ran became a treasure we used sparingly, with purpose. The solar panels survived, but the charge controller didn't. Half the neighbors' generators worked until the last treated gas turned sour, and then the valley learned the sound of true quiet: no highway hum, no distant planes, no freezer motors cycling at night. People said Russia had thrown EMPs like stones—desperate to blind the world's machines and level the AI race. We never saw the proof. We saw the results: dead screens, dead supply chains, dead certainty.
 

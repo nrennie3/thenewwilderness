@@ -1,12 +1,20 @@
 ---
-title: 'Vignette #4: The Oracle'
-description: "When a family AI named Mira begins answering every question before it can be asked, a father fights for his children's capacity to wonder. A fictional story from the Christian Resilience Framework."
-pubDate: 'Feb 24 2026'
+title: "The Oracle in the Pocket"
+order: 5
+description: "When a family AI named Mira begins answering every question before it can be asked, a father fights for his children's capacity to wonder."
 ---
 
-*This is a work of literary fiction illustrating [Probability #4](/framework#seven-probabilities) from the Christian Resilience Framework.*
+### What is the probability that our kids will look to God when their personal AI seems to have all the answers?
+
+Faith thrives in struggle and in the gaps of our understanding, when we realize our need for God in our humility. When a kid has an "oracle" in their pocket that provides a perfect 3-point plan for every moral dilemma or technical failure, the perceived need for a higher power may fade. It is difficult to cultivate the patience for prayer when an algorithm provides immediate, tangible "answers" to every question.
+
+> **Some Early Evidence:** Pew Research (late 2025) indicates that only 55% of Gen Alpha/Z identify with any religion. More importantly, Attest's 2025 Gen Alpha Report found that 46% of kids already use AI as their primary source for advice and "truth," effectively replacing traditional spiritual or parental guidance with algorithmic feedback.
 
 ---
+
+## The Oracle
+
+*A work of literary fiction.*
 
 By the time the kids got home from school, the house had its usual sounds: backpacks thumping, boots kicked loose, the kettle beginning to sing. But lately there was a new rhythm—soft voices aimed not at each other, but at the air.
 

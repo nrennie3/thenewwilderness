@@ -4,32 +4,8 @@ const today = new Date();
 
 <footer>
 	<div class="footer-inner">
-		<div class="footer-top-rule"></div>
-		<div class="footer-grid">
-			<div class="col col-about">
-				<p class="footer-site-title">The New Wilderness</p>
-				<p class="footer-blurb">
-					A journal on faith, family, and navigating the age of artificial intelligence.
-				</p>
-			</div>
-			<div class="col col-nav">
-				<p class="col-heading">Explore</p>
-				<ul>
-					<li><a href="/">Home</a></li>
-					<li><a href="/framework">Framework</a></li>
-					<li><a href="/blog">Vignettes</a></li>
-				</ul>
-			</div>
-			<div class="col col-feeds">
-				<p class="col-heading">Subscribe</p>
-				<ul>
-					<li><a href="/rss.xml">RSS Feed</a></li>
-				</ul>
-			</div>
-		</div>
-		<div class="footer-bottom">
-			&copy; {today.getFullYear()} The New Wilderness. All rights reserved.
-		</div>
+		<div class="footer-rule"></div>
+		<p class="footer-copy">&copy; {today.getFullYear()} The New Wilderness. All rights reserved.</p>
 	</div>
 </footer>
 
@@ -42,73 +18,18 @@ const today = new Date();
 	.footer-inner {
 		max-width: 860px;
 		margin: 0 auto;
-		padding: 0 1rem 3rem;
+		padding: 0 1rem 2.5rem;
 	}
-	.footer-top-rule {
+	.footer-rule {
 		height: 1px;
-		background: rgb(var(--gray-dark));
-		margin-bottom: 2.5rem;
+		background: var(--rule);
+		margin-bottom: 1.5rem;
 	}
-	.footer-grid {
-		display: grid;
-		grid-template-columns: 2fr 1fr 1fr;
-		gap: 2rem;
-		margin-bottom: 2.5rem;
-	}
-	.footer-site-title {
-		font-family: "Playfair Display", Georgia, serif;
-		font-size: 1.05rem;
-		font-weight: 700;
-		color: rgb(var(--black));
-		margin: 0 0 0.5rem 0;
-	}
-	.footer-blurb {
-		font-family: "Lora", Georgia, serif;
-		font-style: italic;
-		font-size: 0.85rem;
-		color: rgb(var(--gray));
-		line-height: 1.65;
-		margin: 0;
-	}
-	.col-heading {
-		font-family: "Lora", Georgia, serif;
-		font-size: 0.68rem;
-		font-weight: 600;
-		letter-spacing: 0.14em;
-		text-transform: uppercase;
-		color: rgb(var(--gray));
-		margin: 0 0 0.75rem 0;
-	}
-	.col ul {
-		list-style: none;
-		margin: 0;
-		padding: 0;
-	}
-	.col ul li {
-		margin-bottom: 0.4rem;
-	}
-	.col ul li a {
-		font-family: "Lora", Georgia, serif;
-		font-size: 0.9rem;
-		color: rgb(var(--gray-dark));
-		text-decoration: none;
-		transition: color 0.15s;
-	}
-	.col ul li a:hover {
-		color: var(--accent);
-	}
-	.footer-bottom {
-		border-top: 1px solid var(--rule);
-		padding-top: 1.25rem;
+	.footer-copy {
 		text-align: center;
 		font-family: "Lora", Georgia, serif;
 		font-size: 0.8rem;
 		color: rgb(var(--gray));
-	}
-	@media (max-width: 640px) {
-		.footer-grid {
-			grid-template-columns: 1fr;
-			gap: 1.5rem;
-		}
+		margin: 0;
 	}
 </style>
