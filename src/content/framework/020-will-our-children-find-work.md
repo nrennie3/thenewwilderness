@@ -1,6 +1,7 @@
 ---
 title: "Will Our Children Find Work?"
 order: 20
+date: "2025-12-23"
 description: "When the bottom rung of the career ladder vanishes overnight, a family must choose between dependence and defiance."
 ---
 

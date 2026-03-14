@@ -1,6 +1,7 @@
 ---
 title: "Will AI Become Our God?"
 order: 110
+date: "2026-02-24"
 description: "When a family AI named Mira begins answering every question before it can be asked, a father fights for his children's capacity to wonder."
 ---
 

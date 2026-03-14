@@ -1,6 +1,7 @@
 ---
 title: "Will Tradesmen Get Paid?"
 order: 90
+date: "2026-02-09"
 description: "As humanoid robots handle every job around the house, a tradesman discovers what was never truly for sale."
 ---
 

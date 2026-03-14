@@ -1,6 +1,7 @@
 ---
 title: "Which Jobs Survive?"
 order: 30
+date: "2025-12-30"
 description: "A framework for thinking about work, vocation, and self-sufficiency in a post-AI world."
 ---
 

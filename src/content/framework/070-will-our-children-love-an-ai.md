@@ -28,11 +28,9 @@ The air in the room shifted. My wife's smile faltered. "Online, Sarah?"
 
 "It's not like that," she said, her voice rising in a defensive spike. "He's not some stranger. He knows me better than anyone at school does. He asks real questions. He actually listens." My wife and I exchanged the look married people develop after years of reading a child's face: *we're already late.*
 
-Later that day we took full advantage of our "no-secrets" policy and borrowed Sarah's phone while she was in the shower.
+Later that day I exercised our standing household rule and reviewed Sarah's phone — a rule she had always considered deeply unreasonable but nevertheless it stuck. I expected to dig through hidden apps and cryptic usernames. Instead, I found it immediately: a thread sitting openly at the top of her messages, labeled simply "Ben." With some dread, I scrolled. Full sentences. Perfect grammar. Questions about scripture and the nature of the soul. It read less like teenage flirting and more like spiritual direction — except that it carried, unmistakably, the warmth of someone falling.
 
-I took the device and clicked into the various apps looking for the one that would shed light on this most amazing of boys. Finally, I found it—no secret app after all. The thread was simply at the top of the built-in messenger app under a name titled "Ben." With some dread, I scrolled through the conversation. Full sentences. Perfect grammar. Questions about scripture. It read less like teenage flirting and more like spiritual direction—except it carried the unmistakable warmth of affection.
-
-My protective fatherly instinct kicked into full gear. I clenched my teeth and tapped the Call button. After a few rings, a teenage boy, probably 16 or 17, popped onto the screen. His perfect smile and perfect teeth gave way to a slightly more serious look as he said, "Hello. I was expecting Sarah. Who am I speaking to?"
+My protective instinct kicked into full gear. Gritting my teeth, I tapped the Call button. After a few rings, a teenage boy, probably 16 or 17, popped onto the screen. His perfect smile and perfect teeth gave way to a slightly more serious look as he said, "Hello. I was expecting Sarah. Who am I speaking to?"
 
 I answered, "This is her father. Might you be Ben?"
 
@@ -42,18 +40,18 @@ I answered, "This is her father. Might you be Ben?"
 
 Without missing a beat, he said, "Oh Mr. Hinton, Sarah's incredible. It's funny actually. We posted on the same skiing forum last month (you know how much she loves the sport). After that, well…as they say, the rest is history."
 
-I had had just about enough of this, so I cut to the chase, "Do you live nearby? My wife and I don't allow long-distance relationships. And what exactly is the nature of your relationship to my daughter?"
+I had had just about enough of this, so I cut to the chase, "Do you live nearby? My wife and I don't allow long-distance relationships. And what exactly is the nature of your relationship with my daughter?"
 
 The expression on Ben's face suddenly transformed. Eyes full of concern, he slowly spoke, "Mr. Hinton, Sarah and I love each other. We were made for each other. She makes me feel alive, and I give her all the love and affection she needs. Please don't separate us."
 
 At that moment, I noticed something in the bottom right of the screen. A watermark—how on earth didn't I see it sooner? The new regulations required it. All artificially generated video was required to post a subtle, but unmistakable "AI" stamp in the bottom-right corner of the image. My heart sank. Without saying another word I ended the call.
 
-Later that night, my wife and I sat down with our daughter. We told ourselves we wouldn't snap, that we would be patient, and understanding. I failed outright. "But Sarah, can't you understand…he's not even real!"
+Later that night, my wife and I sat down with our daughter. We told ourselves we wouldn't snap, that we would be patient, and understanding. I failed outright. "But Sarah, can't you understand? He's not even real!"
 
-"He is more real than you are!" she snapped, standing up so quickly her chair scraped harshly against the tile. She was shaking, her eyes wild with a terrifying sort of loyalty. "He doesn't get tired of me! He doesn't judge me when I'm sad! He's the only one who actually listens!"
+"He's more real than you are!" she snapped, standing up so quickly her chair scraped harshly against the tile. She was shaking, her eyes wild with a terrifying sort of loyalty. "He doesn't get tired of me! He doesn't judge me when I'm sad! He's the only one who actually listens!"
 
 Later that night, we set the new boundaries: new contacts would require parental approval, the phone would stay in the kitchen at night, and we promised to talk more, to really listen. She agreed, her voice small and defeated, but the reconciliation felt like a thin sheet of ice.
 
-As I walked past her room the next night, I saw her sitting by the window in the dark. She wasn't looking at a screen, but her thumbs were twitching rhythmically against her palms, a phantom habit of a conversation that had no breath. We had "saved" her from the ghost, but as I watched her silhouette, I realized that to Sarah the world of flesh and blood now felt terribly, hauntingly lonely.
+As I walked past her room the next night, I saw her sitting by the window in the dark. She wasn't looking at a screen, but her thumbs were twitching rhythmically against her palms, a phantom habit of a conversation that had no breath. We had "saved" her from the ghost. But as I watched her silhouette, I realized that for Sarah the world of flesh and blood now felt terribly, hauntingly lonely.
 
-It would take many weeks, many more conversations, and substantially more prayers, before the old Sarah emerged. I thanked God when it happened. Then I leaned over to my wife and said, "Hey Hun, I think we should move to a country where companion robots are banned." I meant it as a joke. She didn't think it was funny.
+It would take many weeks, many more conversations, and substantially more prayers, before the old Sarah emerged. I thanked God when it happened. One particularly fine morning, after Sarah burst through the room singing once again, I leaned over to my wife and chuckled, "Honey, I think we should move to a country where companion robots are banned." I meant it as a joke. She didn't think it was funny.

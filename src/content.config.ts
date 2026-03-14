@@ -11,6 +11,7 @@ const framework = defineCollection({
 		title: z.string(),
 		order: z.number(),
 		description: z.string().optional(),
+		date: z.string().optional(),
 	}),
 });
 

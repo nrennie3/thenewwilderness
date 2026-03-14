@@ -1,6 +1,7 @@
 ---
 title: "What is AI?"
 order: 10
+date: "2025-12-17"
 description: "Understanding artificial intelligence—not as a computer program, but as a neural network trained to predict, evolve, and reshape the world."
 ---
 

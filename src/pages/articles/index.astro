@@ -8,6 +8,12 @@ import { SITE_TITLE } from '../../consts';
 const articles = (await getCollection('framework')).sort(
 	(a, b) => a.data.order - b.data.order,
 );
+
+const lastUpdated = articles
+	.map(a => a.data.date)
+	.filter(Boolean)
+	.sort()
+	.at(-1);
 ---
 
 <!doctype html>
@@ -67,6 +73,13 @@ const articles = (await getCollection('framework')).sort(
 				margin: 0;
 				line-height: 1.55;
 			}
+			.last-updated {
+				font-family: "Inter", sans-serif;
+				font-size: 0.75rem;
+				color: rgb(var(--gray));
+				margin: -0.5rem 0 2rem 0;
+				letter-spacing: 0.04em;
+			}
 			.article-arrow {
 				color: var(--accent);
 				font-size: 1rem;
@@ -91,6 +104,9 @@ const articles = (await getCollection('framework')).sort(
 	<body>
 		<Header />
 		<main>
+			{lastUpdated && (
+				<p class="last-updated">Last updated: {lastUpdated}</p>
+			)}
 			<ol class="article-list">
 				{articles.map((article) => (
 					<li class="article-item" id={article.id}>

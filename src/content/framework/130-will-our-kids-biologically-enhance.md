@@ -1,6 +1,7 @@
 ---
 title: "Will Our Kids Biologically Enhance?"
 order: 130
+date: "2026-03-10"
 description: "As the job market turns hyper-competitive, a mother discovers her son has received a neural enhancement — and must ask what it means to be whole."
 ---
 

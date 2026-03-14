@@ -1,6 +1,7 @@
 ---
 title: "Would Your Family Survive a Disaster?"
 order: 140
+date: "2026-03-14"
 description: "History shows that isolated families rarely survive a true crisis. The primary unit of resilience has always been the community."
 ---
 

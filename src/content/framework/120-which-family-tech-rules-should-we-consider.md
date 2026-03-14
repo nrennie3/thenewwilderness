@@ -1,6 +1,7 @@
 ---
 title: "Which Family Tech Rules Should We Consider?"
 order: 120
+date: "2026-03-04"
 description: "Ideas and strategies for mitigating the dangers and traps of devices and AI."
 ---
 

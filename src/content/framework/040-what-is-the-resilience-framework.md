@@ -1,6 +1,7 @@
 ---
 title: "What is the Resilience Framework?"
 order: 40
+date: "2026-01-06"
 description: "Three Circles of Resilience—the Block, the Hearth, and the County—for remaining free, faithful, and fully human in the age of AI."
 ---
 

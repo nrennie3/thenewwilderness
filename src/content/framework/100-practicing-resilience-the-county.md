@@ -1,6 +1,7 @@
 ---
 title: "Practicing Resilience: The County"
 order: 100
+date: "2026-02-16"
 description: "Five concrete skills for building civic resilience and protecting human dignity at the local government level."
 ---
 

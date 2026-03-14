@@ -126,12 +126,15 @@ const { title, description, slug } = Astro.props;
 			.article-footer {
 				max-width: 860px;
 				margin: 0 auto;
-				padding: 1.5rem 1.25rem 4rem;
+				padding: 1.25rem 1.25rem 1.5rem;
 				border-top: 1px solid var(--rule);
 			}
 			@media (max-width: 720px) {
 				.article-header {
 					padding: 1.25rem 1.25rem 0;
+				}
+				.article-footer {
+					padding: 1rem 1.25rem 1rem;
 				}
 			}
 		</style>
