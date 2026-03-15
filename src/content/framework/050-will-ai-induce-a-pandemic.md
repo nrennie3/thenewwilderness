@@ -1,7 +1,7 @@
 ---
 title: "Will AI Induce a Pandemic?"
 order: 50
-description: "The barrier to designing a virus has dropped from a $100 million lab to a high-powered laptop and a grudge. What are the implications?"
+description: "The barrier to designing and producing a virus has dropped dramatically. What are the implications?"
 ---
 
 The barrier to designing a virus has dropped from a $100 million lab and a team of PhDs to a high-powered laptop and a grudge. AI is beginning to turn biology into code as if it were a language, allowing anyone with a basic chemistry background to follow step-by-step manuals for synthesizing pathogens.

@@ -2,7 +2,7 @@
 title: "What is the Resilience Framework?"
 order: 40
 date: "2026-01-06"
-description: "Discussion on three circles of resilience: the Block, the Hearth, and the County -- for remaining free, faithful, and fully human in the age of AI."
+description: "Discussion on three circles of resilience to remain free, faithful, and fully human in the age of AI."
 ---
 
 While the outside world may grow colder and increasingly artificial, we gather around the community of our neighbors and the fire of our faith to keep the "human spark" alive. To turn this vision into action, we propose a framework of three "Circles of Resilience." Individually, none of then are new ideas. Combining them is the key.
