@@ -1,6 +1,6 @@
 ---
 title: "Practicing Resilience: The Block"
-order: 50
+order: 60
 description: "Five concrete skills for building physical resilience and face-to-face trust with your nearest neighbors."
 ---
 
@@ -16,16 +16,16 @@ The simplest and most underused tool in building a resilient block is also the m
 
 **2. Run a Low-Tech Drill for One Life-Sustaining System**
 
-Pick one grid-dependent necessity — water, heat, or cooking — and spend a weekend operating entirely without it using only what your block currently has. Can you actually get clean water for your household for 72 hours? Where does the plan break down? The drill reveals gaps while the stakes are low, and doing it with neighbors normalizes mutual dependence before it's an emergency.
+Pick one grid-dependent necessity—water, heat, or cooking—and spend a weekend operating entirely without it using only what your block currently has. Can you actually get clean water for your household for 72 hours? Where does the plan break down? The drill reveals gaps while the stakes are low, and doing it with neighbors normalizes mutual dependence before it's an emergency.
 
 **3. Establish and Maintain One Analog Communication System**
 
-Set up a simple, non-digital way to signal need or call a meeting — a physical bulletin board, a designated door-knock chain, a flag system, or a weekly standing check-in time. Practice using it even when you don't have to. The habit of not defaulting to your phone for block communication is itself the skill, because in a crisis the phone may not work and the habit won't be there if you've never built it.
+Set up a simple, non-digital way to signal need or call a meeting—a physical bulletin board, a designated door-knock chain, a flag system, or a weekly standing check-in time. Practice using it even when you don't have to. The habit of not defaulting to your phone for block communication is itself the skill, because in a crisis the phone may not work and the habit won't be there if you've never built it.
 
 **4. Host a "Skills & Assets" Mapping Night**
 
-Organize a simple potluck where neighbors fill out index cards listing one skill they'd offer in a crisis (medical, mechanical, agricultural, etc.) and one asset they'd share (generator, truck, extra storage, tools). Compile these into a printed binder kept in two or three households. Practice updating it annually. The goal isn't a perfect inventory — it's the conversation, which builds the trust that makes the list meaningful.
+Organize a simple potluck where neighbors fill out index cards listing one skill they'd offer in a crisis (medical, mechanical, agricultural, etc.) and one asset they'd share (generator, truck, extra storage, tools). Compile these into a printed binder kept in two or three households. Practice updating it annually. The goal isn't a perfect inventory—it's the conversation, which builds the trust that makes the list meaningful.
 
 **5. Learn One Practical Repair Skill from a Neighbor**
 
-Identify a neighbor with a hands-on skill you lack — plumbing, electrical basics, engine repair, first aid beyond CPR — and ask them to teach you one concrete thing. Then teach them something you know. This bilateral exchange does two things at once: it transfers genuinely useful knowledge and it creates a relationship with real texture and reciprocity, which is the actual foundation of a resilient block. Repeat with a different neighbor each year.
+Identify a neighbor with a hands-on skill you lack—plumbing, electrical basics, engine repair, first aid beyond CPR—and ask them to teach you one concrete thing. Then teach them something you know. This bilateral exchange does two things at once: it transfers genuinely useful knowledge and it creates a relationship with real texture and reciprocity, which is the actual foundation of a resilient block. Repeat with a different neighbor each year.

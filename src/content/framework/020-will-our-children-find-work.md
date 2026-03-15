@@ -2,7 +2,7 @@
 title: "Will Our Children Find Work?"
 order: 20
 date: "2025-12-23"
-description: "AI is eliminating entry-level work faster than new work appears — leaving the next generation with nowhere to start."
+description: "AI is eliminating entry-level work faster than new work appears — leaving the next generation with few entry points."
 ---
 
 The bottom rung of the career ladder is being cut off. Historically, young people did the grunt work — answering phone calls, site cleanup, and similar tasks — to learn a job. Today, these tasks are starting to be performed by AI for pennies, leaving only jobs that require higher-level mastery. If you can't start at the bottom because a machine is already there, it becomes nearly impossible to get the experience needed to reach the top.
