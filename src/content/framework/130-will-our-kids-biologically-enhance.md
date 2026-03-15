@@ -1,8 +1,8 @@
 ---
-title: "Will Our Kids Biologically Enhance?"
+title: "Will We Biologically Enhance?"
 order: 130
 date: "2026-03-10"
-description: "When AI makes human cognition obsolete, the pressure to enhance the body and mind will be enormous. What does faithfulness look like when the upgrade is available?"
+description: "When AI makes human abilities look quaint, the pressure to enhance the body and mind will be enormous."
 ---
 
 This won't look like cyborgs from a movie; it will look like "high-tech braces." As the job market becomes hyper-competitive, parents will feel like they are neglecting their children if they don't give them a "neural boost" for focus or a genetic tweak for health. Kids may even feel intense pressure to "upgrade" their memory, their wit, or physical strength, just so they can continue to relate to their peers.

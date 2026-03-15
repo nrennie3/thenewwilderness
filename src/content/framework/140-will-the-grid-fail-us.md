@@ -2,7 +2,7 @@
 title: "Will the Grid Fail Us?"
 order: 140
 date: "2026-03-14"
-description: "History shows that when big systems fail, isolated families succumb to small things. Community is the only infrastructure that lasts."
+description: "History shows that when big systems fail, isolated families succumb to small things. Community is what lasts."
 ---
 
 What are the chances a family can survive alone in a prolonged disaster scenario? The "lone wolf" is a dead end because of the Complexity Trap. Modern life is too tethered to a global machine. History shows that when the big systems fail, isolated families usually succumb to simple things like a tooth infection or a broken pump that they no longer have the parts to fix. However, a tight-knit local community can survive by sharing specialized skills and a "reservoir" of social trust.
