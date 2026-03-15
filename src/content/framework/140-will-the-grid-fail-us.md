@@ -1,11 +1,11 @@
 ---
-title: "Will the Grid Fail Us?"
+title: "Could We Survive a Grid Collapse?"
 order: 140
 date: "2026-03-14"
-description: "History shows that when big systems fail, isolated families succumb to small things. Community is what lasts."
+description: "When big systems fail, isolated families succumb to small things. Community is what lasts."
 ---
 
-What are the chances a family can survive alone in a prolonged disaster scenario? The "lone wolf" is a dead end because of the Complexity Trap. Modern life is too tethered to a global machine. History shows that when the big systems fail, isolated families usually succumb to simple things like a tooth infection or a broken pump that they no longer have the parts to fix. However, a tight-knit local community can survive by sharing specialized skills and a "reservoir" of social trust.
+The "lone wolf" is a dead end because of the Complexity Trap. Modern life is too tethered to a global machine. History shows that when the big systems fail, isolated families usually succumb to simple things like a tooth infection or a broken pump that they no longer have the parts to fix. However, a tight-knit local community can survive by sharing specialized skills and a "reservoir" of social trust.
 
 > **Some Early Evidence:** A 2025 study from NORC at the University of Chicago found that in disaster scenarios, social capital — the trust and networks within a community — is a better predictor of survival than wealth or physical infrastructure. Residents in high-trust communities were three times more likely to survive and rebuild than those attempting to weather the storm in isolation.
 
