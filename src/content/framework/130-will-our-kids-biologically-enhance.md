@@ -1,5 +1,5 @@
 ---
-title: "Will We Biologically Enhance?"
+title: "Will Our Kids Merge with AI?"
 order: 130
 date: "2026-03-10"
 description: "When AI makes human abilities look quaint, the pressure to enhance the body and mind will be enormous."
