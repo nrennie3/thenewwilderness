@@ -5,7 +5,9 @@ date: "2026-03-10"
 description: "When AI makes human abilities look quaint, the pressure to enhance the body and mind will be enormous."
 ---
 
-This won't look like cyborgs from a movie; it will look like "high-tech braces." As the job market becomes hyper-competitive, parents will feel like they are neglecting their children if they don't give them a "neural boost" for focus or a genetic tweak for health. Kids may even feel intense pressure to "upgrade" their memory, their wit, or physical strength, just so they can continue to relate to their peers.
+This won't look like cyborgs from a movie; it will look like "high-tech braces." As the job market becomes hyper-competitive, parents will feel like they are neglecting their children if they don't give them a "neural boost" for focus or a genetic tweak for health. Kids will feel intense pressure to "upgrade" their memory, their wit, or physical strength just to keep up with their peers.
+
+But this isn't only a children's issue. Adults will face the same calculus in the workplace: accept a cognitive enhancement or watch a faster, sharper colleague get the promotion you needed. The pressure won't arrive as a mandate — it will arrive as an offer. And refusing it will feel less like a moral stand and more like a choice to fall behind. This is how the post-human arrives: not as a dramatic rupture, but as a quiet sequence of reasonable decisions, each one small enough to seem harmless.
 
 > **Some Early Evidence:** The biohacking market is projected to hit $22.5 billion by late 2026. Following the FDA's approval of Casgevy (the first CRISPR therapy), the "stigma" of editing human biology has largely evaporated, transforming genetic and cognitive "optimization" into a standard consumer product.
 

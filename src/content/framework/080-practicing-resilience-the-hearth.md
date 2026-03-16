@@ -14,13 +14,13 @@ Each resilience circle involves a body of practice. Just as any skill requires p
 
 Treat Sunday as a skill that requires practice, not just an intention. Start small: commit to one Sunday a month with no screens before noon, then expand from there. Design the day with enough structure that it doesn't collapse into restless boredom—a shared meal, an outdoor walk, a game that requires presence. The goal is to make the day feel like a gift rather than a deprivation, which only happens through repetition. Families who've done this consistently report that Sunday becomes the most anticipated day of the week within a few months.
 
-**2. Conduct an Annual "Technology Discernment" Review**
+**2. Conduct an Annual Technology Discernment Review**
 
 Once a year, as a Hearth group, sit down and honestly audit your household's relationship with each major technology: Does this tool serve our work and our relationships, or does it slowly replace them? Is this an axe or a neuralink? The Amish practice of communal technology discernment—deciding together rather than individually—is the actual skill here. It prevents the gradual drift that happens when families make these choices in isolation, and it gives you language and solidarity to resist technologies that most people simply absorb by default.
 
 **3. Build a Real Mentorship Pair Across Generations**
 
-Each family should identify one person a generation older and one a generation younger to invest in intentionally—not as a program, but as a real, recurring relationship. Share a meal. Work on something together. Ask the hard questions about how they've navigated faith, marriage, or vocation. The skill being practiced is the ancient one of sitting at someone's feet, and it requires humility, consistency, and showing up even when it's inconvenient. This is the most direct counter-move to a culture that offers AI mentors and algorithm-curated friendships as substitutes for the real thing.
+Each family should identify someone a generation away — older if you need wisdom you don't yet have, younger if you have wisdom to give. The best Hearths have both flowing at once, but the practice for each family is simpler: find the one relationship across a generation gap that you're not currently in, and start it. Share a meal. Work on something together. Ask the hard questions about how they've navigated faith, marriage, or vocation. The skill being practiced is the ancient one of sitting at someone's feet — or welcoming someone to sit at yours — and it requires humility, consistency, and showing up even when it's inconvenient. This is the most direct counter-move to a culture that offers AI mentors and algorithm-curated friendships as substitutes for the real thing.
 
 **4. Practice Hospitality as a Discipline, Not an Event**
 

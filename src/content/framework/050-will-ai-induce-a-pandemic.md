@@ -6,7 +6,7 @@ description: "The barrier to designing and producing a virus has dropped dramati
 
 The barrier to designing a virus has dropped from a $100 million lab and a team of PhDs to a high-powered laptop and a grudge. AI is beginning to turn biology into code as if it were a language, allowing anyone with a basic chemistry background to follow step-by-step manuals for synthesizing pathogens.
 
-> **Some Early Evidence:** The release of ESM3 in late 2024 demonstrated that AI can now "simulate 500 million years of evolution" to create entirely new proteins. A 2025 biosecurity evaluation showed that ESM3 could reconstruct 85% of a redacted viral sequence, proving that current biosecurity guardrails are essentially useless against modern protein-language models.
+> **Some Early Evidence:** The release of ESM3 in late 2024 demonstrated that AI can now "simulate 500 million years of evolution" to create entirely new proteins. A 2025 biosecurity evaluation showed that ESM3 could reconstruct 85% of a redacted viral sequence — proving that current guardrails are no match for modern protein-language models. In a separate 2025 study, Microsoft researchers generated 76,000 blueprints for dangerous proteins including ricin and botulinum toxin, and found that up to 100% of the AI-crafted variants evaded detection by the DNA synthesis screening systems used by major suppliers. OpenAI quietly escalated its internal bioweapon risk tier to "high" in April 2025.
 
 ---
 
