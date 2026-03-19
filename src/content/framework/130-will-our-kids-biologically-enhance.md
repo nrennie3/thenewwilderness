@@ -9,7 +9,7 @@ This won't look like cyborgs from a movie; it will look like "high-tech braces."
 
 But this isn't only a children's issue. Adults will face the same calculus in the workplace: accept a cognitive enhancement or watch a faster, sharper colleague get the promotion you needed. The pressure won't arrive as a mandate — it will arrive as an offer. And refusing it will feel less like a moral stand and more like a choice to fall behind. This is how the post-human arrives: not as a dramatic rupture, but as a quiet sequence of reasonable decisions, each one small enough to seem harmless.
 
-> **Some Early Evidence:** The biohacking market is projected to hit $22.5 billion by late 2026. Following the FDA's approval of Casgevy (the first CRISPR therapy), the "stigma" of editing human biology has largely evaporated, transforming genetic and cognitive "optimization" into a standard consumer product.
+> **Some Early Evidence:** In December 2023, the FDA approved Casgevy — the first CRISPR-based therapy — for sickle cell disease, marking the moment genetic editing of humans became standard medicine. In January 2024, Neuralink implanted its first brain-computer interface in a human patient; he was controlling a computer cursor with his thoughts within weeks. By 2025, multiple patients at both Neuralink and rival Synchron had received implants. The biohacking market is projected to exceed $22 billion by 2026. The long-standing stigma of editing human biology is beginning to evaporate.
 
 ---
 

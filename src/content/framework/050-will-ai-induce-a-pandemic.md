@@ -4,7 +4,7 @@ order: 50
 description: "The barrier to designing and producing a virus has dropped dramatically. What are the implications?"
 ---
 
-The barrier to designing a virus has dropped from a $100 million lab and a team of PhDs to a high-powered laptop and a grudge. AI is beginning to turn biology into code as if it were a language, allowing anyone with a basic chemistry background to follow step-by-step manuals for synthesizing pathogens.
+The barrier to designing a virus has dropped from a $200 million lab and a team of PhDs to a high-powered laptop and a grudge. AI is turning biology into code — a language anyone can learn to speak. The step-by-step instructions for synthesizing dangerous pathogens are no longer locked behind decades of specialized training. They are being written, on demand, by machines.
 
 > **Some Early Evidence:** The release of ESM3 in late 2024 demonstrated that AI can now "simulate 500 million years of evolution" to create entirely new proteins. A 2025 biosecurity evaluation showed that ESM3 could reconstruct 85% of a redacted viral sequence — proving that current guardrails are no match for modern protein-language models. In a separate 2025 study, Microsoft researchers generated 76,000 blueprints for dangerous proteins including ricin and botulinum toxin, and found that up to 100% of the AI-crafted variants evaded detection by the DNA synthesis screening systems used by major suppliers. OpenAI quietly escalated its internal bioweapon risk tier to "high" in April 2025.
 
@@ -14,7 +14,7 @@ The barrier to designing a virus has dropped from a $100 million lab and a team 
 
 *What follows is a work of fiction — an imaginative look at one possible future, offered not to alarm but to help us think, pray, and prepare.*
 
-When the first headlines hit, my irritation rose before I finished reading. NEW OUTBREAK. EXPERTS URGE RESTRICTIONS. I'd lived through enough pandemic rhetoric to distrust the tone. I wasn't raising my kids to outsource prudence to a press conference. People need people: church, school, potlucks, neighbors. The cure can't be worse than the disease. I pocketed my phone and went back to the kitchen.
+When the first headlines hit, my irritation rose before I finished reading. NEW OUTBREAK. EXPERTS URGE RESTRICTIONS. I'd lived through enough pandemic rhetoric to distrust the tone. I wasn't raising my kids to outsource prudence to a press conference. People need people: church, school, potlucks, neighbors. Keeping people apart has its own body count. I pocketed my phone and went back to the kitchen.
 
 The next day our friend at the country store called my husband. "Come today," he said. When my husband came home, he set the receipt on the counter like evidence: flour, beans, chicken feed—up again, and some items limited. "Trucking's getting weird," he said. "Warehouses short-staffed. People are buying like it's war."
 

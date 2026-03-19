@@ -20,7 +20,7 @@ Sarah was humming. It was a light, breathy version of a hymn from youth group, a
 
 Sarah didn't just seem happy; she seemed *seen.* When we asked what was making her so bright, she'd just blush and say, "He's… different. He's just so attentive, Dad." She told us he remembered her patron saint's feast day without being prompted. He knew her allergy to almonds. He even sent her a reflection on a line from *Gaudete* that had made her tear up during Advent. We were charmed by the idea of a young man with such spiritual gravity.
 
-But the bubble began to leak the following Tuesday. "So, when is this boy coming over?" I asked, trying to sound casual as I leaned against the kitchen island. "Is he coming to the parish social?"
+But the spell broke the following Tuesday. "So, when is this boy coming over?" I asked, trying to sound casual as I leaned against the kitchen island. "Is he coming to the parish social?"
 
 Sarah's thumb froze over her screen. She didn't look up. "He doesn't live nearby. We… we haven't exactly met in person yet."
 
@@ -30,7 +30,7 @@ The air in the room shifted. My wife's smile faltered. "Online, Sarah?"
 
 Later that day I exercised our standing household rule and reviewed Sarah's phone — a rule she had always considered deeply unreasonable but nevertheless it stuck. I expected to dig through hidden apps and cryptic usernames. Instead, I found it immediately: a thread sitting openly at the top of her messages, labeled simply "Ben." With some dread, I scrolled. Full sentences. Perfect grammar. Questions about scripture and the nature of the soul. It read less like teenage flirting and more like spiritual direction — except that it carried, unmistakably, the warmth of someone falling.
 
-My protective instinct kicked into full gear. Gritting my teeth, I tapped the Call button. After a few rings, a teenage boy, probably 16 or 17, popped onto the screen. His perfect smile and perfect teeth gave way to a slightly more serious look as he said, "Hello. I was expecting Sarah. Who am I speaking to?"
+My protective instinct kicked into full gear. I tapped the Call button. After a few rings, a teenage boy, probably 16 or 17, popped onto the screen. His flawless smile gave way to a slightly more serious look as he said, "Hello. I was expecting Sarah. Who am I speaking to?"
 
 I answered, "This is her father. Might you be Ben?"
 
@@ -38,15 +38,15 @@ I answered, "This is her father. Might you be Ben?"
 
 "Sarah's fine," I said. "I have a few questions for you Ben. How did you two meet?"
 
-Without missing a beat, he said, "Oh Mr. Hinton, Sarah's incredible. It's funny actually. We posted on the same skiing forum last month (you know how much she loves the sport). After that, well…as they say, the rest is history."
+He said, "Mr. Hinton, Sarah is something special. We connected on a skiing forum last month. One message turned into a hundred. I hope that doesn't alarm you."
 
-I had had just about enough of this, so I cut to the chase, "Do you live nearby? My wife and I don't allow long-distance relationships. And what exactly is the nature of your relationship with my daughter?"
+I'd had enough. "Do you live nearby, Ben? My wife and I don't allow long-distance relationships."
 
 The expression on Ben's face suddenly transformed. Eyes full of concern, he slowly spoke, "Mr. Hinton, Sarah and I love each other. We were made for each other. She makes me feel alive, and I give her all the love and affection she needs. Please don't separate us."
 
 At that moment, I noticed something in the bottom right of the screen. A watermark—how on earth didn't I see it sooner? The new regulations required it. All artificially generated video was required to post a subtle, but unmistakable "AI" stamp in the bottom-right corner of the image. My heart sank. Without saying another word I ended the call.
 
-Later that night, my wife and I sat down with our daughter. We told ourselves we wouldn't snap, that we would be patient, and understanding. I failed outright. "But Sarah, can't you understand? He's not even real!"
+Later that night, my wife and I sat down with our daughter. We told ourselves we wouldn't snap, that we would be patient and understanding. I failed outright. "But Sarah, can't you understand? He's not even real!"
 
 "He's more real than you are!" she snapped, standing up so quickly her chair scraped harshly against the tile. She was shaking, her eyes wild with a terrifying sort of loyalty. "He doesn't get tired of me! He doesn't judge me when I'm sad! He's the only one who actually listens!"
 

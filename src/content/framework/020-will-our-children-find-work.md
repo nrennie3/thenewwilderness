@@ -5,7 +5,7 @@ date: "2025-12-23"
 description: "AI is eliminating entry-level work faster than new work appears — leaving the next generation with few entry points."
 ---
 
-The bottom rung of the career ladder is being cut off. Historically, young people did the grunt work — answering phone calls, site cleanup, and similar tasks — to learn a job. Today, these tasks are starting to be performed by AI for pennies, leaving only jobs that require higher-level mastery. If you can't start at the bottom because a machine is already there, it becomes nearly impossible to get the experience needed to reach the top.
+The bottom rung of the career ladder is disappearing. Entry-level work — drafting routine emails, processing invoices, handling basic research, answering customer inquiries — is now done faster and cheaper by AI. These weren't glamorous jobs. But they were how young people learned: by doing real work, making small mistakes, and earning the trust that leads to bigger responsibilities. When the bottom rung is gone, there is no obvious way to climb.
 
 > **Some Early Evidence:** A Stanford Digital Economy Lab study (August 2025) found that early-career workers aged 22–25 in AI-exposed fields saw a 16% relative decline in employment from late 2022 to mid-2025 — while workers over 30 in the same fields saw employment *grow* by 6–12%. Entry-level job listings in AI-exposed fields fell 13% over the same period. The Federal Reserve Bank of New York reports that underemployment among recent college graduates hit 42.5% in 2025 — its highest level since 2020 — while only 30% of the Class of 2025 had secured full-time work in their field by mid-year. The burden of AI displacement, so far, falls almost entirely on those just starting out.
 
@@ -18,7 +18,7 @@ He knocked like he wasn't sure he had the right to. I knew the rhythm, but the w
 
 "Hey, Dad," he said, trying to force a smile that didn't reach his eyes.
 
-I took the bag. It was light: milk, beans, and saltine crackers. We moved to the kitchen table, a scarred oak relic that had held the weight of every season…the friction of old homework, the heat of family arguments, and the hushed sanctity of grace before meals.
+I took the bag. It was light: milk, beans, and saltine crackers. We moved to the kitchen table, a scarred oak relic that had held the weight of every season — the friction of old homework, the heat of family arguments, and the hushed sanctity of grace before meals.
 
 John sat and stared at my weathered hands. The silence was heavy. Slowly he reached in his pocket, pulled out his phone, and set it down towards me. Another email. Another rejection. The words were professional and polite, as if smiling while closing the door.
 
@@ -44,4 +44,4 @@ John kept staring at the ultrasound, motionless but for the slow rhythmic outlin
 
 I asked him if it would be alright if I said a prayer for the child, for Veronica, and for his job search. As I said, "Amen," I felt something stir in me. A realization. A chilling clarity. I stared at the scarred oak of the table and understood that it was a headstone for a dying age, a time when a man's labor was his leverage, a fair trade that bought his family the right to be left alone. Now, that social contract was being severed. The corporate machine and the state were merging into a single, seamless provider, decoupling us from being masters of our own craft to being permanent clients of a system that no longer required our hands and minds to function.
 
-I shot a glance at John, concern showing in the creases of my forehead. But I didn't see what I expected to see. John was smiling to himself, and I saw in his eyes something fierce — new sparks of an ancient rebellion. He said, "Thanks Dad. Accounting was overrated anyway." He paused a moment, then looked up slyly, "You and mom have any plans for that old barn by the creek?" There was a glint in his eyes that I hadn't seen since his childhood. I knew God was moving, a Spirit over the void.
+I looked over at John, my forehead tightening with concern. But I didn't see what I expected to see. John was smiling to himself, and I saw in his eyes something fierce — new sparks of an ancient rebellion. He said, "Thanks Dad. Accounting was overrated anyway." He paused a moment, then looked up slyly, "You and mom have any plans for that old barn by the creek?" There was a glint in his eyes that I hadn't seen since his childhood. I knew God was moving, a Spirit over the void.

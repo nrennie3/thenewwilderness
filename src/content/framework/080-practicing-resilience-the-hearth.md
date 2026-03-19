@@ -4,7 +4,7 @@ order: 80
 description: "Five concrete skills for building spiritual and social resilience with a close circle of faith-sharing families."
 ---
 
-Each resilience circle involves a body of practice. Just as any skill requires practice to achieve mastery, the same is true here. Below are some ideas for practicing the skill of community within your local hearth.
+Resilience is not a mindset. It is a practice. The three circles only work if you actually do something — so below are five concrete skills for building your Hearth.
 
 ---
 
@@ -12,7 +12,7 @@ Each resilience circle involves a body of practice. Just as any skill requires p
 
 **1. Protect and Ritualize the Lord's Day**
 
-Treat Sunday as a skill that requires practice, not just an intention. Start small: commit to one Sunday a month with no screens before noon, then expand from there. Design the day with enough structure that it doesn't collapse into restless boredom—a shared meal, an outdoor walk, a game that requires presence. The goal is to make the day feel like a gift rather than a deprivation, which only happens through repetition. Families who've done this consistently report that Sunday becomes the most anticipated day of the week within a few months.
+Treat Sunday as a skill that requires practice, not just an intention. Start small: commit to one Sunday a month with no screens before noon, then expand from there. Design the day with enough structure that it doesn't collapse into restless boredom — a shared meal, an outdoor walk, a game that requires presence. The goal is to make the day feel like a gift rather than a deprivation, which only happens through repetition. Make Sunday the day your family actually looks forward to.
 
 **2. Conduct an Annual Technology Discernment Review**
 
@@ -20,11 +20,11 @@ Once a year, as a Hearth group, sit down and honestly audit your household's rel
 
 **3. Build a Real Mentorship Pair Across Generations**
 
-Each family should identify someone a generation away — older if you need wisdom you don't yet have, younger if you have wisdom to give. The best Hearths have both flowing at once, but the practice for each family is simpler: find the one relationship across a generation gap that you're not currently in, and start it. Share a meal. Work on something together. Ask the hard questions about how they've navigated faith, marriage, or vocation. The skill being practiced is the ancient one of sitting at someone's feet — or welcoming someone to sit at yours — and it requires humility, consistency, and showing up even when it's inconvenient. This is the most direct counter-move to a culture that offers AI mentors and algorithm-curated friendships as substitutes for the real thing.
+Each family should identify someone a generation away — older if you need wisdom you don't yet have, younger if you have wisdom to give. The best Hearths have both happening at once. Share a meal. Work on something together. Ask the hard questions about how they've navigated faith, marriage, or vocation. The skill being practiced is the ancient one of sitting at someone's feet — or welcoming someone to sit at yours — and it requires humility, consistency, and showing up even when it's inconvenient. This is the most direct counter-move to a culture that offers AI mentors and algorithm-curated friendships as substitutes for the real thing.
 
 **4. Practice Hospitality as a Discipline, Not an Event**
 
-The Hearth circle lives or dies by the table. Commit as a group to a rotating, regular shared meal—not a special occasion dinner but an ordinary one, held often enough that it requires no planning energy and low enough friction that exhausted families will still show up. The skill being practiced is the ancient one of presence without performance: coming as you are, bringing what you have, staying long enough for real conversation to emerge after the easy conversation runs out. The discipline is specifically to lower the bar—paper plates are fine, the house doesn't need to be ready—until the table becomes a reflex rather than a production.
+The Hearth circle lives or dies by the table. Commit as a group to a rotating, regular shared meal—not a special occasion dinner but an ordinary one, held often enough that it needs no planning and low enough friction that exhausted families will still show up. The skill being practiced is the ancient one of presence without performance: coming as you are, bringing what you have, staying long enough for real conversation to emerge after the easy conversation runs out. The discipline is specifically to lower the bar—paper plates are fine, the house doesn't need to be ready—until the table becomes a reflex rather than a production.
 
 **5. Practice Carrying Each Other's Burdens Concretely**
 

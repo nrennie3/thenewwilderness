@@ -5,7 +5,7 @@ date: "2026-02-16"
 description: "Five concrete skills for building civic resilience and protecting human dignity at the local government level."
 ---
 
-Each resilience circle involves a body of practice. Just as any skill requires practice to achieve mastery, the same is true here. Below are some ideas for practicing the skill of community within your local county.
+Resilience is not a mindset. It is a practice. The three circles only work if you actually do something — so below are five concrete skills for engaging your county.
 
 ---
 
@@ -21,9 +21,9 @@ In American constitutional structure, the county sheriff is one of the most cons
 
 **3. Learn to Read and Respond to Proposed Local Ordinances**
 
-The surveillance infrastructure most threatening to human dignity rarely arrives through dramatic legislation — it arrives as a line item in a county technology budget, a vendor contract for "public safety analytics," or a grant acceptance from a federal program with strings attached. Practice finding and reading your county's proposed ordinances and contracts before they're voted on. Learn to write a clear, respectful two-page public comment. Organize two or three like-minded neighbors to speak at the same meeting. Local officials are genuinely moved by even modest organized testimony in a way that state and federal officials rarely are, because the room is usually so empty.
+The surveillance infrastructure most threatening to human dignity rarely arrives through dramatic legislation — it arrives as a line item in a county technology budget, a vendor contract for "public safety analytics," or a grant acceptance from a federal program with strings attached. Practice finding and reading your county's proposed ordinances and contracts before they're voted on. Learn to write a clear, respectful public comment. Organize two or three like-minded neighbors to speak at the same meeting. Local officials are genuinely moved by even modest organized testimony in a way that state and federal officials rarely are, because the room is usually so empty.
 
-**4. Develop a "Human Dignity" Policy Vocabulary**
+**4. Develop a Human Dignity Policy Vocabulary**
 
 To engage effectively at the county level, you need language that travels beyond your own community — arguments that resonate with libertarian-leaning commissioners, skeptical independents, and even secular neighbors who share your instinct that algorithmic policing and biometric tracking are dangerous. Practice making the case for privacy and human dignity without exclusively religious framing: due process, Fourth Amendment grounds, the demonstrated failures of predictive policing, the chilling effect of mass surveillance on free assembly. This isn't a compromise of your convictions — it's the skill of translation that every effective civic actor needs to build coalitions wider than their own circle.
 
