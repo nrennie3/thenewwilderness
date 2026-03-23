@@ -55,7 +55,7 @@ I started to flip, then stopped — disgusted at the thought of turning my son i
 
 He filled the silence anyway. "Mom, I can map out a whole conversation in advance," he said softly. "I can hear where your worry is going to land before you say it. I can draft emails that get replies. I can read a contract and spot the hidden clause. I can do mental math like it's breathing. I… I can hold more."
 
-It sounded like a miracle until you listened closely and heard the hunger underneath it: *please let this be enough.* I looked at him: my son with his familiar hands, his familiar mouth, the little scar by his eyebrow from falling off a bike at ten. And yet something in his presence had sharpened, as if he'd been filed down to efficiency.
+It sounded like a miracle until you listened closely and heard the hunger underneath it: *please let this be enough.* I gazed at my son, with his familiar hands, his familiar mouth, the little scar by his eyebrow from falling off a bike at ten. And yet something in his presence had sharpened, as if he'd been filed down to efficiency.
 
 "You're excited," I said.
 
