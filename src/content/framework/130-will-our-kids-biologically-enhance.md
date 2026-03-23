@@ -17,13 +17,13 @@ But this isn't only a children's issue. Adults will face the same calculus in th
 
 *What follows is a work of fiction — an imaginative look at one possible future, offered not to alarm but to help us think, pray, and prepare.*
 
-I found the consent packet in the recycling bin. Not the whole thing — just the parts he thought I wouldn't recognize: glossy trifold pages, a pre-op checklist, a return envelope with a logo that looked like a clean, white cathedral — CEREBRAL INTEGRATION SERVICES — and, folded one too many times, a brochure titled *Competitive Again.*
+I found the consent packet in the recycling bin. Not the whole thing — just the parts he thought I wouldn't recognize. I dried my hands on my jeans and picked through it: glossy trifold pages, a pre-op checklist, a return envelope with a logo that looked like a clean, white cathedral — CEREBRAL INTEGRATION SERVICES — and, folded one too many times, a brochure titled *Competitive Again.*
 
-I stood there with my hands in dishwater, watching paper soak and warp, as if the words might dissolve into something less real. Behind me, the house hummed with ordinary life: the dryer thumping, the dog sighing, the kettle beginning to complain. Ordinary sounds, and my heart suddenly refusing to keep time with them.
+I set it on the counter and shoved my hands back into the dishwater, as if the words might dissolve into something less real if I stopped touching them. Behind me, the house hummed with ordinary life: the dryer thumping, the dog sighing, the kettle beginning to complain. Ordinary sounds, and my heart suddenly refusing to keep time with them. The kettle hissed, then screamed.
 
 "Mom?" he called from the living room. "You okay?"
 
-I dried my hands and walked in. Adam sat on the couch in his socks, too calm for a man who'd just done something irreversible. His eyes were bright — not manic, not glazed. Focused. Like someone who had finally stepped into his own body after years of bumping into doorways.
+I walked in. Adam sat on the couch in his socks, too calm for a man who'd just done something irreversible. His eyes were bright — not manic, not glazed. Focused. Like someone who had finally stepped into his own body after years of bumping into doorways.
 
 I held up the brochure. "What is this?"
 
@@ -43,23 +43,25 @@ I sat down across from him, the brochure still in my hand. "What can you do now?
 
 Adam's eyes flicked up and to the side — an old tell from childhood when he was counting in his head. Except now it looked like he wasn't counting. He was accessing.
 
-"Okay," he said, eager. "Watch. Give me any paragraph you remember. Anything. Or — no — ask me something. Anything. Ask me something hard."
+"Okay," he said, eager. "Watch. Give me a book from the shelf, preferably one I've never read before. You know I never liked Shakespeare."
 
 "Adam — "
 
 "Please," he said, and there was a boyish hope in it that made my chest ache. "Just test it."
 
-So I tried to protect myself with the trivial. "What's the capital of — " and then I stopped, disgusted at the thought of turning my son into a party trick.
+I got up and pulled Macbeth from the shelf. He took it and paged through the whole thing in under a minute, his eyes moving in a way I'd never seen eyes move. Then he handed it back. "Flip to any page. Start reading. I'll finish the sentence before you do."
+
+I started to flip, then stopped — disgusted at the thought of turning my son into a party trick.
 
 He filled the silence anyway. "Mom, I can map out a whole conversation in advance," he said softly. "I can hear where your worry is going to land before you say it. I can draft emails that get replies. I can read a contract and spot the hidden clause. I can do mental math like it's breathing. I… I can hold more."
 
-It sounded like a miracle until you listened closely and heard the hunger underneath it: *please let this be enough.* I looked at him — my son with his familiar hands, his familiar mouth, the little scar by his eyebrow from falling off a bike at ten. And yet something in his presence had sharpened, as if he'd been filed down to efficiency.
+It sounded like a miracle until you listened closely and heard the hunger underneath it: *please let this be enough.* I looked at him: my son with his familiar hands, his familiar mouth, the little scar by his eyebrow from falling off a bike at ten. And yet something in his presence had sharpened, as if he'd been filed down to efficiency.
 
 "You're excited," I said.
 
 "I'm relieved," he corrected, and then grinned. "Also excited. I — Mom, I got an offer. They fast-tracked me. They said my 'cognitive throughput' is…rare. I start in two weeks."
 
-Two weeks. A job. A future. All the things I'd prayed for. And still my stomach turned, because I knew what he'd traded: not memory or personality, maybe, but limits. The humble boundaries God had built into us like guardrails.
+Two weeks. A job. A future. All the things I'd prayed for. And still my stomach turned, because I knew what he'd traded: not soul or personality, but limits. The humble boundaries God had built into us like guardrails.
 
 "Did you tell Dad?" I asked.
 
@@ -75,11 +77,11 @@ He opened his mouth, then closed it. His eyes — so quick now — softened. "Yo
 
 He looked away, jaw working. "Slow doesn't cut it anymore."
 
-There it was — the whole argument in a single sentence. Not philosophical. Financial. Not prideful. Desperate. I wanted to pull him into my arms and rewind time. Instead I did the only thing a mother can do when she can't undo: I stayed.
+There it was — the whole argument in a single sentence. Not philosophical. Financial. Not prideful. Desperate. I wanted to pull him into my arms and rewind time. But time is a knot that can't be unwound.
 
 "Come with me," I said. "Right now."
 
-"To where?"
+"Where?"
 
 "To the chapel," I said. "We're going to sit with Jesus for fifteen minutes. No talking. No proving." My voice shook, but I kept it steady. "Just presence."
 
@@ -89,10 +91,10 @@ On the drive, he spoke excitedly about the new opportunities that were now open 
 
 The chapel was a mercy. Stepping inside, the silence didn't just meet us; it seemed to demand that the world outside — and the world inside Adam's head — stop its frantic racing. Here, his new abilities found nothing to optimize, nothing to process. The red sanctuary lamp burned with the same low, steady flame it had since I was a girl. We knelt.
 
-After a while, he whispered, not triumphant now, not defensive — just young again. "Mom…do you think God is mad?"
+After a few minutes, he whispered, not triumphant now, not defensive — just young again. "Mom…do you think God is mad?"
 
 I didn't have a clean answer. I had only the truth I've learned the hard way: God does not love us because we're impressive.
 
 "I think God wants you whole," I said. "And I think we're going to have to learn what 'whole' means now."
 
-He nodded, eyes fixed forward, as if for the first time since the procedure he'd met something that couldn't be sped up. We stayed until the fifteen minutes ran out — and then, because neither of us moved, longer.
+He turned, eyes fixed forward. We stayed until the fifteen minutes ran out — and then, because neither of us moved, longer.
