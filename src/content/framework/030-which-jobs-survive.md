@@ -7,7 +7,7 @@ description: "A framework for thinking about work, vocation, and self-sufficienc
 
 AI is on track to match or surpass human capability in nearly every domain — mental and physical. The mental gap has largely closed. Yet most people remain unaware of this, because they experience AI through free, consumer-grade tools like Google Search or Microsoft Copilot, which reflect yesterday's capabilities. The frontier models are far more powerful. On the physical side, "embodied AI" (i.e. humanoid robots) is still emerging, but progress is accelerating rapidly and is on pace to begin displacing blue-collar work within three to five years.
 
-This raises the central question for any job planning: if AI can eventually do all mental and physical work faster, cheaper, and more reliably than a human, what differentiates us? The answer is not complicated: the soul. AI will never have one. And regardless of how capable or seemingly benevolent AI becomes, many people will continue to prefer a human — someone who can be trusted, held accountable, and truly present. The durable threads are trust, accountability, presence, and meaning. The jobs below are built on them.
+This raises the central question for any job planning: if AI can eventually do all mental and physical work faster, cheaper, and safer than a human, what differentiates us? Two things — and they are different in kind. The first is structural: liability law and democratic legitimacy require named humans to be accountable for consequential decisions; no algorithm can be sued, voted out, or held to account. The second is irreducible: the soul. AI will never have one, and no amount of capability changes the human need for presence, trust, and meaning. The categories below are built on one or both.
 
 One honest challenge to this framework: every previous technology wave created job categories that were unimaginable beforehand. Nobody in 1990 would have predicted social media manager or influencer as jobs. New categories will almost certainly emerge from AI as well. The difference — and the reason we hold this framework with some confidence — is that AI sits at the generative layer. Prior technologies automated specific tasks; AI can learn and absorb new task categories nearly as fast as humans invent them. The new jobs may appear, but the window before AI consumes them may be measured in months, not decades. What remains is the floor beneath the floor: the work that requires a soul, a body, a name.
 
@@ -23,26 +23,37 @@ Before asking what you will do, ask what you are called to be. The Christian tra
 ## Enter with a Plan
 *Strong for now — with a transition in mind*
 
-**Skilled Trades & Physical Infrastructure** — Electricians, plumbers, HVAC technicians, welders, mechanics, contractors. Still excellent income and genuinely needed now. The durable position is owner, supervisor, and relationship manager — not task worker. Plan the transition from day one.
+**Skilled Trades & Physical Infrastructure** — Electricians, plumbers, HVAC technicians, welders, mechanics, contractors. The durable position is owner, supervisor, and relationship manager — not task worker. Plan the transition from day one.
+
+**The AI Edge** — A skilled person using frontier AI tools significantly outperforms a non-AI-using peer today. For entrepreneurs especially, this creates real opportunity: new business ventures, compressed timelines, asymmetric output. The window is real — and closing. This is a runway, not a destination.
 
 ---
 
-## Durable
-*Structural reasons for durability*
+## Legally Durable
+*Durable as long as law requires a named human to be accountable*
+
+**Judgment, Legal Accountability & Mediation** — Judges, trial attorneys, bioethicists, physicians in treatment planning, private mediators, and arbitrators. Durable because liability and enforceability require a named human, and trust is the precondition for resolution.
+
+**Security, Military & Law Enforcement** — Military commanders, law enforcement officers, and critical infrastructure protection roles. Durable because command authority over the use of force, chain of custody for evidence, and courtroom testimony are legally anchored to named humans.
+
+**Civic & Public Service Leadership** — Elected officials, appointed agency heads, civil servants in direct service roles, community organizers, diplomats. Durable because democratic legitimacy is constitutionally anchored to human officeholders. The bureaucracy beneath elected officials is largely automatable — this category is narrower than it appears.
+
+**AI Oversight, Auditing & Accountability** — Compliance officers, algorithmic auditors, and AI incident investigators. Durable because when AI makes a consequential decision, a named human must be accountable — and governments are actively building that requirement into law.
+
+---
+
+## Culturally Durable
+*Durable as long as people prefer a human over an AI alternative*
 
 **Meaning & Spiritual Formation** — Philosophers, spiritual directors, liturgists, chaplains (military, hospital, prison). Durable because meaning is not a task.
 
-**Education & Formation** — Mentors, coaches, classical educators, formation-focused teachers, music and arts directors. Durable at the formative tier — the teacher as witness, stable adult, and soul-shaper. The content-delivery tier will be largely automated.
+**Education & Formation** — Mentors, coaches, classical educators, formation-focused teachers, music and arts directors. Likely durable at the formative tier — the teacher as witness, stable adult, and soul-shaper. The content-delivery tier will be largely automated.
 
-**Care & Presence** — Nurses, hospice care workers, mental health counselors, therapists, social workers, early childhood caregivers, midwives, elder care workers, grief counselors, peer support workers, addiction recovery sponsors, emergency responders (firefighters, paramedics, EMTs). Durable because of the irreducible human need for presence in suffering and crisis, which no machine can meet.
+**Care & Presence** — Nurses, hospice care workers, mental health counselors, therapists, social workers, early childhood caregivers, midwives, elder care workers, grief counselors, peer support workers, addiction recovery sponsors, emergency responders. Likely durable because of the human need for presence in suffering and crisis. 
 
-**Authentic Experience & the Handmade** — Artisan food and drink producers, hand-craft makers, fine artists, experience-based hospitality, live performance. Durable because the hunger for beauty made by human hands is written into our nature. AI can simulate craft; it cannot make something that carries a human story.
+**Authentic Experience & the Handmade** — Artisan food and drink producers, hand-craft makers, fine artists, experience-based hospitality, live performance. Likely durable because the hunger for beauty made by human hands is written into our nature. Keep in mind this category requires proof of human-origination.
 
-**Judgment & Legal Accountability** — Judges, trial attorneys, bioethicists, physicians in treatment planning, law enforcement officers. Durable because liability structures require a named human.
-
-**Civic & Public Service Leadership** — Elected officials, appointed agency heads, civil servants in direct service roles, community organizers, diplomats. Durable because democratic legitimacy is constitutionally anchored to human officeholders.
-
-**Narrative & Cultural Stewardship** — Historians, archivists, local and investigative journalists, writers whose authority rests on a known and trusted human voice. Durable because trust cannot be automated.
+**Narrative & Cultural Stewardship** — Historians, archivists, local and investigative journalists, writers whose authority rests on a known and trusted human voice. Durable for those with established reputations and institutional accountability. As an entry path for newcomers, this category is under significant pressure.
 
 ---
 
